@@ -81,10 +81,10 @@ social:
 # Site Author
 author:
   name             : "Rob Hetland"
-  avatar           : "profile.png"
+  avatar           : "rob.jpeg"
   bio              : "Chief Scientist for Integrated Coastal Modeling"
-  location         : "Location"
-  employer         : "Pacific Northwest National Laboratory"
+  location         : "Bryan, TX"
+  employer         : "PNNL"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=THFG9TgAAAAJ"
   email            : "hetland@gmail.com"
