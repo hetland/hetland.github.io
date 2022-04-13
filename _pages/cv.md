@@ -7,53 +7,28 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Education:
+==========
+*Florida State University, Tallahassee, FL 	1999	Ph. D. in Oceanography
+*University of Maine, Orono, ME 		1996	M. S. in Oceanography
+*Saint Olaf College, Northfield, MN 		1992	B. A. in Physics and Mathematics
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Employment:
+===========
+*Earth Scientist, PNNL						2021 – present
+*Professor, Texas A&M University				2013 – 2021
+*Associate Professor, Texas A&M University			2006 – 2013
+*Assistant Professor, Texas A&M University			2000 – 2006
+*Postdoctoral Investigator, USGS/WHOI				1999 – 2000
+*Graduate Research Assistant, FSU				1996 – 1999
+*Graduate Research Assistant, U. Maine				1993 – 1996
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Honors and awards:
+==================
+*Fulbright Senior Researcher, IOW, Germany 			2007 – 2008
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Affiliations:
+=============
+*Adjunct Scientist WHOI					2014 – 2019
+*Joint Appointment/Visiting Scholar, Texas A&M University 2022 - present
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
