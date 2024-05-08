@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /projects/
 title: "Rob Hetland"
 excerpt: "Earth Scientist at PNNL"
 author_profile: true
 redirect_from: 
-  - /projects/
   - /projects.html
 ---
 
