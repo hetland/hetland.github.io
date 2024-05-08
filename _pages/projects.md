@@ -1,7 +1,7 @@
 ---
+layout: archive
+title: "Active Research Projects"
 permalink: /projects/
-title: "Rob Hetland"
-excerpt: "Earth Scientist at PNNL"
 author_profile: true
 redirect_from: 
   - /projects.html
