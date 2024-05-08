@@ -29,6 +29,9 @@ redirect_from:
 
 ### Affiliations:
 
- * Adjunct Scientist WHOI					2014 – 2019
- * Joint Appointment/Visiting Scholar, Texas A&M University 2022 - present
+ * Adjunct Scientist WHOI,					2014 – 2019
+ * Joint Appointment/Visiting Scholar, Texas A&M University, 2022 - present
+ * Courtesy Faculty Member, Oregon State University, College of Earth, Ocean, and Atmospheric Sciences, 2023 –
+
+
 

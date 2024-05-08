@@ -7,6 +7,24 @@ author_profile: true
 
 ### Peer-reviewed publications
 
+Cao, H., Freilich, M., Song, X., Jing, Z., Fox‐Kemper, B., Qiu, B., Hetland, R., Chai, F., Ruiz, S., & Chen, D. (2024). Isopycnal submesoscale stirring crucially sustaining subsurface chlorophyll maximum in ocean cyclonic eddies. Geophysical Research Letters, 51(4), e2023GL105793.
+
+Deb, M., Benedict, J., Sun, N., Yang, Z., Hetland, R., Judi, D., & Wang, T. (2023). Estuarine hurricane wind can intensify surge-dominated extreme water level in shallow and converging coastal systems. EGUsphere, 2023, 1-28.
+
+Kayastha, M. B., Huang, C., Wang, J., Pringle, W. J., Chakraborty, T. C., Yang, Z., Hetland, R. D., Qian, Y., & Xue, P. (2023). Insights on Simulating Summer Warming of the Great Lakes: Understanding the Behavior of a Newly Developed Coupled Lake‐Atmosphere Modeling System. JAMES, 15(7), e2023MS003620.
+
+John, E. B., Balaguru, K., Leung, L. R., Foltz, G. R., Hetland, R. D., & Hagos, S. M. (2023). Intensification of Hurricane Sally (2020) over the Mississippi River plume. Weather and Forecasting.
+
+Schlichting, D., Qu, L., Kobashi, D., & Hetland, R. (2023). Quantification of physical and numerical mixing in a coastal ocean model using salinity variance budgets. JAMES, 15(4), e2022MS003380.
+
+Wang, J., Qian, Y., Pringle, W., Chakraborty, T. C., Hetland, R., Yang, Z., & Xue, P. (2023). Contrasting effects of lake breeze and urbanization on heat stress in Chicago metropolitan area. Urban Climate, 48, 101429.
+
+Qu, L., Thomas, L. N., Wienkers, A. F., Hetland, R. D., Kobashi, D., Taylor, J. R., Hsuan, F. , Hsu, W., MacKinnon, J. A., Shearman, R. K,  Nash, J. D. (2022). Rapid vertical exchange at fronts in the Northern Gulf of Mexico. Nature Communications, 13(1), 1-11.
+
+Qu, L., Hetland, R. D., & Schlichting, D. (2022). Mixing pathways in simple box models. J. Phys. Oceanogr., 52(11), 2761-2772.
+
+Qu, L., Thomas, L. N., Hetland, R. D., & Kobashi, D. (2022). Mixing Driven by Critical Reflection of Near-Inertial Waves over the Texas–Louisiana Shelf. J. Phys. Oceanogr., 52(11), 2891-2906.
+
 Qu, L., L. N. Thomas, R. D. Hetland (2021) Near-inertial wave critical layers over sloping bathymetry J. Phys. Oceanogr, 51 (6), 1737-1756.
 
 Liang, J. H., Liu, J., Benfield, M., Justic, D., Holstein, D., Liu, B., Hetland, R., Kobashi, D., Dong, C.,& Dong, W. (2021). Including the effects of subsurface currents on buoyant particles in Lagrangian particle tracking models: Model development and its application to the study of riverborne plastics over the Louisiana/Texas shelf. Ocean Modelling, 101879.
