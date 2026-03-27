@@ -79,3 +79,117 @@ Kealoha, A. K., Doyle, S. M., Shamberger, K. E. F., Sylvan, J. B., Hetland, R. D
 Qu, L., & Hetland, R. D. (2019). Temporal resolution of wind forcing required for river plume simulations. *Journal of Geophysical Research: Oceans*, **124**, 1459–1473.
 
 Zhang, W., Wu, H., Hetland, R. D., & Zhu, Z. (2019). Mechanisms controlling seasonal hypoxia hot spots off the Changjiang River Estuary. *Journal of Geophysical Research: Oceans*, **124**, 8683–8700.
+
+Chapman, P., DiMarco, S., Hetland, R. D., & Socolofsky, S. (2018). From bubbles to beaches: An integrated modeling approach to oil spill response. *Marine Technology Society Journal*, **52**(6), 91–94.
+
+Thyng, K. M., & Hetland, R. D. (2018). Seasonal and interannual cross-shelf transport over the Texas and Louisiana continental shelf. *Continental Shelf Research*, **160**, 23–35.
+
+Zhang, W., & Hetland, R. D. (2018). Baroclinic instability induced convergence near the bottom using water age simulations. *Journal of Geophysical Research: Oceans*, **123**(3), 1962–1977.
+
+Qu, L., Lin, X., Hetland, R. D., & Guo, J. (2018). Asymmetric continental shelf wave response to synoptic wind bursts in a semienclosed double-shelf basin. *Journal of Geophysical Research: Oceans*, **123**(1), 131–148.
+
+Rayson, M. D., Gross, E. S., Hetland, R. D., & Fringer, O. B. (2017). Using an isohaline flux analysis to predict salt content in an unsteady estuary. *Journal of Physical Oceanography*, **47**(11), 2811–2828.
+
+Thyng, K. M., & Hetland, R. D. (2017). Texas and Louisiana coastal vulnerability and shelf connectivity. *Marine Pollution Bulletin*, **116**(1–2), 226–233.
+
+Hetland, R. D. (2017). Suppression of baroclinic instabilities in buoyancy-driven flow over sloping bathymetry. *Journal of Physical Oceanography*, **47**(1), 49–68.
+
+Passow, U., & Hetland, R. D. (2016). What happened to all of the oil? *Oceanography*, **29**(3), 88–95.
+
+Thyng, K. M., Greene, C. A., Hetland, R. D., Zimmerle, H. M., & DiMarco, S. F. (2016). True colors of oceanography: Guidelines for effective and accurate colormap selection. *Oceanography*, **29**(3), 9–13.
+
+Rayson, M. D., Gross, E. S., Hetland, R. D., & Fringer, O. B. (2016). Time scales in Galveston Bay: An unsteady estuary. *Journal of Geophysical Research: Oceans*, **121**(4), 2268–2285.
+
+Fennel, K., Laurent, A., Hetland, R. D., Justić, D., Ko, D. S., Lehrter, J., Murrell, M., Wang, L., Yu, L., & Zhang, W. (2016). Effects of model physics on hypoxia simulations for the northern Gulf of Mexico: A model intercomparison. *Journal of Geophysical Research: Oceans*, **121**(8), 5731–5750.
+
+Cole, K. L., & Hetland, R. D. (2016). Effects of rotation and river discharge on mixing in small-mouth Kelvin number plumes. *Journal of Physical Oceanography*, **46**(5), 1421–1436.
+
+Xu, K., Mickey, R. C., Chen, Q., Harris, C. K., Hetland, R. D., Hu, K., & Wang, J. (2016). Shelf sediment transport during hurricanes Katrina and Rita. *Computers & Geosciences*, **90**, 24–39.
+
+Zhang, W., Hetland, R. D., DiMarco, S. F., & Fennel, K. (2015). Processes controlling mid-water column oxygen minima over the Texas–Louisiana shelf. *Journal of Geophysical Research: Oceans*, **120**, 2800–2812.
+
+Henrichs, D. W., Hetland, R. D., & Campbell, L. (2015). Identifying bloom origins of *Karenia brevis* in the western Gulf of Mexico using a spatially explicit individual-based model. *Ecological Modelling*, **313**, 251–258.
+
+Horner-Devine, A. R., Hetland, R. D., & MacDonald, D. G. (2015). Mixing and transport in coastal river plumes. *Annual Review of Fluid Mechanics*, **47**, 569–594.
+
+Rong, Z., Zhang, X., & Hetland, R. D. (2014). Current–wave interaction in the Mississippi–Atchafalaya River plume. *Ocean Modelling*, **84**, 67–83.
+
+Zhang, Z., Hetland, R. D., & Zhang, X. (2014). Wind-modulated buoyancy circulation over the Texas–Louisiana shelf. *Journal of Geophysical Research: Oceans*, **119**.
+
+Feng, Y., Fennel, K., Jackson, G. A., DiMarco, S. F., & Hetland, R. D. (2014). Response of hypoxia to upwelling-favorable wind on the northern Gulf of Mexico shelf. *Journal of Marine Systems*, **131**, 63–73.
+
+Thyng, K. M., Hetland, R. D., Ogle, M. T., Zhang, X., Chen, F., & Campbell, L. (2013). Origins of *Karenia brevis* harmful algal blooms along the Texas coast. *Limnology and Oceanography: Fluids and Environments*, **3**, 269–278.
+
+Hofmeister, R., Bolding, K., Hetland, R. D., Schernewski, G., Siegel, H., & Burchard, H. (2013). Dynamics of cooling water discharge in a shallow embayment. *Continental Shelf Research*, **71**, 68–77.
+
+Marta-Almeida, M., Ruiz-Villarreal, M., Pereira, J., Otero, P., Cirano, M., Zhang, X., & Hetland, R. D. (2013). Tools for marine operational forecast and oil spill tracking. *Marine Pollution Bulletin*, **71**(1–2), 139–151.
+
+Marta-Almeida, M., Hetland, R. D., & Zhang, X. (2013). Evaluation of model nesting performance on the Texas–Louisiana shelf. *Journal of Geophysical Research: Oceans*, **118**.
+
+Laurent, A., Fennel, K., Hu, J., & Hetland, R. D. (2012). Effects of phosphorus limitation in river plumes. *Biogeosciences*, **9**, 4707–4723.
+
+Zhang, Z., & Hetland, R. D. (2012). Convergence of alongshore flows over the Texas–Louisiana shelf. *Journal of Geophysical Research: Oceans*, **117**, C11010.
+
+Zhang, X., Hetland, R. D., Marta-Almeida, M., & DiMarco, S. F. (2012). Mississippi and Atchafalaya freshwater transport and flushing times. *Journal of Geophysical Research: Oceans*, **117**, C11009.
+
+Zhang, X., Marta-Almeida, M., & Hetland, R. D. (2012). High-resolution forecast model for the Texas–Louisiana shelf. *Journal of Operational Oceanography*, **5**(1), 19–34.
+
+Hetland, R. D., & DiMarco, S. F. (2012). Skill assessment of circulation models over the Texas–Louisiana shelf. *Ocean Modelling*, **43–44**, 64–76.
+
+Bianchi, T. S., Cook, R. L., Perdue, E. M., Kolic, P. E., Green, N., Zhang, Y. L., Smith, R. W., Kolker, A. S., Ameen, A., King, G., Ojwang, L. M., Schneider, C. L., Normand, A. E., & Hetland, R. D. (2011). Impacts of diverted freshwater on dissolved organic matter and microbial communities. *Marine Environmental Research*, **72**(5), 248–257.
+
+Fennel, K., Hetland, R., Feng, Y., & DiMarco, S. F. (2011). Coupled physical–biological model of the northern Gulf of Mexico shelf. *Biogeosciences*, **8**, 1881–1899.
+
+Forrest, D. R., Hetland, R. D., & DiMarco, S. F. (2011). Regression models of hypoxia extent on the Texas–Louisiana shelf. *Environmental Research Letters*, **6**, 045002.
+
+Xu, K., Harris, C. K., Hetland, R. D., & Kaihatu, J. M. (2011). Dispersal of Mississippi and Atchafalaya sediment. *Continental Shelf Research*, **31**(15), 1558–1575.
+
+Burchard, H., Hetland, R. D., Schulz, E., & Schuttelaars, H. M. (2011). Drivers of residual estuarine circulation. *Journal of Physical Oceanography*, **41**(3), 548–570.
+
+Burchard, H., & Hetland, R. D. (2010). Contributions of tidal straining and gravitational circulation. *Journal of Physical Oceanography*, **40**(6), 1243–1262.
+
+Hetland, R. D. (2010). Estuarine overmixing. *Journal of Physical Oceanography*, **40**, 199–211.
+
+Zhang, X., Smith, D. C., DiMarco, S. F., & Hetland, R. D. (2010). Sea-breeze-driven ocean Poincaré waves. *Journal of Physical Oceanography*, **40**, 48–66.
+
+DiMarco, S. F., Chapman, P., Walker, N., & Hetland, R. D. (2010). Topographic control of hypoxia. *Journal of Marine Systems*, **80**, 25–35.
+
+Hetland, R. D. (2010). Mixing and spreading in river plumes. *Dynamics of Atmospheres and Oceans*, **49**(1), 37–53.
+
+Chen, F., MacDonald, D. G., & Hetland, R. D. (2009). Lateral spreading of river plumes. *Journal of Geophysical Research: Oceans*, **114**, C07013.
+
+Zhang, X., DiMarco, S. F., Smith, D. C., Howard, M. K., Jochens, A. E., & Hetland, R. D. (2009). Near-resonant ocean response to sea breeze. *Journal of Physical Oceanography*, **39**(9), 2137–2155.
+
+Fischer, E., Burchard, H., & Hetland, R. D. (2009). Turbulent kinetic energy dissipation in river plumes. *Ocean Dynamics*, **59**(5), 629–641.
+
+Hetland, R. D., & MacDonald, D. G. (2008). Spreading in the near-field Merrimack River plume. *Ocean Modelling*, **21**, 12–21.
+
+Hetland, R. D., & DiMarco, S. F. (2008). Oxygen demand and hypoxia structure. *Journal of Marine Systems*, **70**, 49–62.
+
+Justić, D., Bierman, V. J., Scavia, D., & Hetland, R. D. (2007). Forecasting Gulf hypoxia. *Estuaries and Coasts*, **30**(5), 791–801.
+
+Hetland, R. D., & Campbell, L. (2007). Convergent blooms of *Karenia brevis*. *Geophysical Research Letters*, **34**, L19604.
+
+MacDonald, D. G., Goodman, L., & Hetland, R. D. (2007). Turbulent dissipation in river plumes. *Journal of Geophysical Research: Oceans*, **112**, C07026.
+
+Bender, L. C., Guinasso, N. L., Walpert, J. N., Lee, L. L., Martin, R. D., Hetland, R. D., et al. (2007). Texas automated buoy system. *Gulf of Mexico Science*, **2007**(1), 33–60.
+
+Hetland, R. D. (2006). Event-driven model skill assessment. *Ocean Modelling*, **11**, 214–223.
+
+Hetland, R. D., & Signell, R. P. (2005). Coastal current transport in the Gulf of Maine. *Deep-Sea Research Part II*, **52**, 2430–2449.
+
+Hetland, R. D. (2005). River plume structure and vertical mixing. *Journal of Physical Oceanography*, **35**(9), 1667–1688.
+
+Hetland, R. D., & Geyer, W. R. (2004). Structure of partially mixed estuaries. *Journal of Physical Oceanography*, **34**(12), 2677–2691.
+
+Hetland, R. D., McGillicuddy, D. J., & Signell, R. P. (2002). Cross-frontal entrainment of plankton. *Journal of Marine Research*, **60**, 763–777.
+
+McGillicuddy, D. J., Signell, R. P., Stock, C. A., Keafer, B. A., Keller, M. D., Hetland, R. D., & Anderson, D. M. (2002). Offshore initiation of harmful algal blooms. *Journal of Plankton Research*, **25**(9), 1131–1138.
+
+MacCready, P. M., Hetland, R. D., & Geyer, W. R. (2002). Isohaline salt balance in an estuary. *Continental Shelf Research*, **22**, 1591–1601.
+
+Hetland, R. D., Hsueh, Y., & Yuan, D. (2001). Decay of a baroclinic jet along a continental slope. *Journal of Geophysical Research*, **106**(C9), 19797–19807.
+
+Hetland, R. D., Hsueh, Y., Leben, R. R., & Niiler, P. P. (1999). Loop current-induced jet along the West Florida shelf. *Geophysical Research Letters*, **26**(15), 2239–2242.
+
+Pettigrew, N. R., Townsend, D. W., Xue, H., Wallinga, J. P., Brickley, P. J., & Hetland, R. D. (1998). Eastern Maine Coastal Current observations. *Journal of Geophysical Research*, **103**(C13), 30623–30639.
