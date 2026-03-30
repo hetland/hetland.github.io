@@ -193,3 +193,16 @@ Hetland, R. D., Hsueh, Y., & Yuan, D. (2001). Decay of a baroclinic jet along a 
 Hetland, R. D., Hsueh, Y., Leben, R. R., & Niiler, P. P. (1999). Loop current-induced jet along the West Florida shelf. *Geophysical Research Letters*, **26**(15), 2239–2242.
 
 Pettigrew, N. R., Townsend, D. W., Xue, H., Wallinga, J. P., Brickley, P. J., & Hetland, R. D. (1998). Eastern Maine Coastal Current observations. *Journal of Geophysical Research*, **103**(C13), 30623–30639.
+
+Reports:
+Burchard, H., G. Schernewski, O. Bittner, K. Bolding, M. Gerth,R. Hetland, R. Hofmeister, S. Maack, T. Neumann, H. Siegel, P. Springer, and I. Stottmeister, Physikalische und ökologische Auswirkungen einer Kühlwasserausbreitung im Greifswalder Bodden - Endbericht, Leibniz Institute for Baltic Sea Research Warnemünde, Rostock, Germany, 145pp., 2008.
+
+Hetland, R.D, Fennel, K, Harris, C., Kaihatu, J., Xu, K. and DiMarco, S. 2011. Integrated bio-physical modeling of Louisiana-Texas (LATEX) Shelf. U.S. Dept. of the Interior, Bureau of Ocean Energy Management, Regulation and Enforcement, Gulf of Mexico OCS Region, New Orleans, LA. OCS Study BOEMRE.
+
+Books (edited):
+Justic, D., Rose, K. A., Hetland, R. D., and Fennel, K. (editors, 2017). Modeling coastal hypoxia: Numerical simulations of patterns, controls and effects of dissolved oxygen dynamics. Springer.
+
+Book chapters:
+Hetland, R. D, (accepted) Spreading and mixing in near-field river plumes, in The Mathematics of Marine Modelling, Editors: Henk Schuttelaars, Arnold Heemink, Eric Deleersnijder, Springer.
+
+Hetland, R. D., and Hsu, T.-J. (2013) Freshwater and sediment dispersal of large river plumes, in Biogeochemical Dynamics at Large River-Coastal Interfaces: Linkages with Global Climate Change, Editors: Thomas S. Bianchi, Mead A. Allison, and Wei-Jun Cai, Cambridge University Press, p55-85.
