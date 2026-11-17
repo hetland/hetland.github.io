@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build the complete static website using only Python's standard library."""
 import html
+import hashlib
 import json
 import re
 import shutil
@@ -14,6 +15,7 @@ def load(name):
     return json.loads((ROOT / 'content' / f'{name}.json').read_text())
 
 profile, cv, projects, publications = [load(x) for x in ('profile', 'cv', 'projects', 'publications')]
+ASSET_VERSION = hashlib.sha256((ROOT/'assets/style.css').read_bytes() + (ROOT/'assets/site.js').read_bytes()).hexdigest()[:12]
 publications.sort(key=lambda p: (p['year'], p.get('date', str(p['year'])), p['title']), reverse=True)
 seen = set()
 for paper in publications:
@@ -69,7 +71,7 @@ def shell(title, active, body, description=None):
     description = description or profile['bio']
     nav = ''.join(f'<a href="{url}"' + (' aria-current="page"' if active == name else '') + f'>{name}</a>' for name,url in [('Research','/'),('Projects','/projects/'),('Publications','/publications/'),('CV','/cv/')])
     return f'''<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(title)} · Rob Hetland</title><meta name="description" content="{E(description)}"><meta name="theme-color" content="#163c42"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/style.css"><script src="/assets/site.js" defer></script></head>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(title)} · Rob Hetland</title><meta name="description" content="{E(description)}"><meta name="theme-color" content="#163c42"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/style.css?v={ASSET_VERSION}"><script src="/assets/site.js?v={ASSET_VERSION}" defer></script></head>
 <body><a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="wrap header-inner"><a class="brand" href="/" aria-label="Rob Hetland home">{MARK}Rob Hetland<span style="color:var(--orange)">.</span></a><nav class="nav" aria-label="Main navigation">{nav}<a class="contact-link" href="mailto:{E(profile['email'])}">Get in touch ↗</a></nav></div></header>
 <main id="main">{body}</main><div class="wrap"><section class="contact-band" aria-label="Contact"><div><h2>Let’s connect.</h2><p>{E(profile['organization'])} · {E(profile['location'])}</p></div><div><p style="margin-bottom:16px"><a href="mailto:{E(profile['email'])}">{E(profile['email'])} ↗</a></p>{social()}</div></section></div><footer class="site-footer"><div class="wrap footer-inner"><span>Rob Hetland · Coastal ocean science</span><div><a href="/archive/2026-11-17/">Previous website ↗</a><a href="https://github.com/hetland/hetland.github.io">Website source ↗</a></div></div></footer></body></html>'''
 
