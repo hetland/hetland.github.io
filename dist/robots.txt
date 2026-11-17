@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /archive/
+Sitemap: https://hetland.github.io/sitemap.xml

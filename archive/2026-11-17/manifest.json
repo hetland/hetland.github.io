@@ -1,0 +1,442 @@
+{
+  "source": "https://hetland.github.io/",
+  "snapshot_date": "2026-11-17",
+  "notes": "HTML raw responses preserved under raw-html/. Browsable HTML/CSS use relative same-origin URLs and HTML adds noindex. External links are preserved; external resources may require internet. Same-origin JavaScript and meta-refresh redirects were also localized. Existing missing feed/icon URLs were retained and recorded as HTTP 404 errors.",
+  "files": [
+    {
+      "url": "https://hetland.github.io/",
+      "path": "index.html",
+      "retrieved_utc": "2026-11-17T20:11:47Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "c009d19fe785eed43afa70f83ff0849dfe4e090b8b8d23d712139c7c6c6cf9e2",
+      "archived_sha256": "d5c203049bf3850046fa8803eb045428a0f71d51a678dcb3f2b541c67e2808e6",
+      "bytes": 6167
+    },
+    {
+      "url": "https://hetland.github.io/publications/",
+      "path": "publications/index.html",
+      "retrieved_utc": "2026-11-17T20:11:47Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "14f6b6c825259ee32b828a1b76d18ab41623dce268dc2cbde30400cc976c9507",
+      "archived_sha256": "5598c15a58fe2b9afc39c56e8a9cd722ff861287442d0f371ff80c1329c904d0",
+      "bytes": 24890
+    },
+    {
+      "url": "https://hetland.github.io/projects/",
+      "path": "projects/index.html",
+      "retrieved_utc": "2026-11-17T20:11:47Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "180e09458e1bb5fb22cf75101b53b3e286aeb53d5ab95a6daf9801a35de44465",
+      "archived_sha256": "b69d20d12f2e54e8de83a647c0011b7e7117591c91a44b9df41cd2291a18908e",
+      "bytes": 8090
+    },
+    {
+      "url": "https://hetland.github.io/cv/",
+      "path": "cv/index.html",
+      "retrieved_utc": "2026-11-17T20:11:47Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "9577a6decec1b4794f20513d875e9cba5f14cbaa5c5c88bc0c6cfd81eba0943f",
+      "archived_sha256": "d647ac0e23a66a166ad0ff84e7577c603ecb85c22f96cdf194203d8598d160d9",
+      "bytes": 6545
+    },
+    {
+      "url": "https://hetland.github.io/sitemap/",
+      "path": "sitemap/index.html",
+      "retrieved_utc": "2026-11-17T20:11:48Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "435ca379d615ddaa2e22c7bae3e7783280d365189370fb6b03d73b758736a668",
+      "archived_sha256": "bc07fa124a95494897961f9032fb5b1c4fe410b026fc49c3d7e66752f47fb9a6",
+      "bytes": 11077
+    },
+    {
+      "url": "https://hetland.github.io/assets/css/main.css",
+      "path": "assets/css/main.css",
+      "retrieved_utc": "2026-11-17T20:11:48Z",
+      "content_type": "text/css; charset=utf-8",
+      "original_sha256": "fe6f275cdf17ed1ecc750f1a7677a39a327e3878c4110fed4686a97b6270a194",
+      "archived_sha256": "781af2d4f3fed21f431107972459115159db2030823ecff1377888287a77dca5",
+      "bytes": 100710
+    },
+    {
+      "url": "https://hetland.github.io/images/manifest.json",
+      "path": "images/manifest.json",
+      "retrieved_utc": "2026-11-17T20:11:49Z",
+      "content_type": "application/json; charset=utf-8",
+      "original_sha256": "4a0cc17cbeed804dc3fabfe39d6c1d72ad418a7b08eb469364ffe24bb391bdf2",
+      "archived_sha256": "4a0cc17cbeed804dc3fabfe39d6c1d72ad418a7b08eb469364ffe24bb391bdf2",
+      "bytes": 852
+    },
+    {
+      "url": "https://hetland.github.io/images/safari-pinned-tab.svg",
+      "path": "images/safari-pinned-tab.svg",
+      "retrieved_utc": "2026-11-17T20:11:49Z",
+      "content_type": "image/svg+xml",
+      "original_sha256": "8c12f1e89c965f4affefe5a14b49a9703326d2f47cbb6996e0074b29da0af5e9",
+      "archived_sha256": "8c12f1e89c965f4affefe5a14b49a9703326d2f47cbb6996e0074b29da0af5e9",
+      "bytes": 1981
+    },
+    {
+      "url": "https://hetland.github.io/assets/css/academicons.css",
+      "path": "assets/css/academicons.css",
+      "retrieved_utc": "2026-11-17T20:11:49Z",
+      "content_type": "text/css; charset=utf-8",
+      "original_sha256": "8ddb8378dd9ab6a0e67f4ba79ecd2e3909045168ecd19111d1ce62ead3e133d5",
+      "archived_sha256": "113e0c5d91ef731cbf561eeb8347111e9f4d7ccf949a0733d234ff595f5f27db",
+      "bytes": 5556
+    },
+    {
+      "url": "https://hetland.github.io/images/rob.jpeg",
+      "path": "images/rob.jpeg",
+      "retrieved_utc": "2026-11-17T20:11:49Z",
+      "content_type": "image/jpeg",
+      "original_sha256": "6d7d072e64b02a242199992ad5621ed234be2d0f8374dba1dbdb27969de35364",
+      "archived_sha256": "6d7d072e64b02a242199992ad5621ed234be2d0f8374dba1dbdb27969de35364",
+      "bytes": 20908
+    },
+    {
+      "url": "https://hetland.github.io/assets/js/main.min.js",
+      "path": "assets/js/main.min.js",
+      "retrieved_utc": "2026-11-17T20:11:50Z",
+      "content_type": "application/javascript; charset=utf-8",
+      "original_sha256": "a095bd9fc67b743c81944eff8170335d82819b62c1d0dbb8fd672b440753f40e",
+      "archived_sha256": "a095bd9fc67b743c81944eff8170335d82819b62c1d0dbb8fd672b440753f40e",
+      "bytes": 131019
+    },
+    {
+      "url": "https://hetland.github.io/sitemap.xml",
+      "path": "sitemap.xml",
+      "retrieved_utc": "2026-11-17T20:11:50Z",
+      "content_type": "application/xml",
+      "original_sha256": "ab4dc919a05d0698ad609b27092e03d32977d7ed0d784fe88cee38b37870e559",
+      "archived_sha256": "ab4dc919a05d0698ad609b27092e03d32977d7ed0d784fe88cee38b37870e559",
+      "bytes": 1153
+    },
+    {
+      "url": "https://hetland.github.io/404.html",
+      "path": "404.html",
+      "retrieved_utc": "2026-11-17T20:11:50Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "33529cab12c6e296c0b7ad857a4589d9be4a79cdeac38296e5087b80e3b9c49d",
+      "archived_sha256": "10907526dda862a48b9d6f7f88f8a35b703d2e6800df8f8857f8d4b0585404cd",
+      "bytes": 6223
+    },
+    {
+      "url": "https://hetland.github.io/markdown/",
+      "path": "markdown/index.html",
+      "retrieved_utc": "2026-11-17T20:11:50Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "dc2ac8ce807111cf421f66523acf672519decb9fb474d3ad1c3f0d386d5fe8e0",
+      "archived_sha256": "fc0fb564f371b8a7970d8a342aac36d66a203c404bbe80575ca7e79a01f819c2",
+      "bytes": 12315
+    },
+    {
+      "url": "https://hetland.github.io/page-archive/",
+      "path": "page-archive/index.html",
+      "retrieved_utc": "2026-11-17T20:11:50Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "fd9c0709043060cd2489e309ccdfd985aef338239a1380495c69f11d792e1d4a",
+      "archived_sha256": "4479c022c40f0ae552dbaf65cddbe7f5f78a9d2bd84a73de7dc3e541d2ecbbe5",
+      "bytes": 9744
+    },
+    {
+      "url": "https://hetland.github.io/tags/",
+      "path": "tags/index.html",
+      "retrieved_utc": "2026-11-17T20:11:50Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "e33a4260afd0880f8397afa2de0c49697e7a9a76d310c1ec4f789dc92c3d5eec",
+      "archived_sha256": "084c3b8b7fb0cec46de8a3e73a3e15bf1deb784b2a66abc176a26af16724f292",
+      "bytes": 5671
+    },
+    {
+      "url": "https://hetland.github.io/year-archive/",
+      "path": "year-archive/index.html",
+      "retrieved_utc": "2026-11-17T20:11:50Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "fab3b586b2676f1c41e9d08a784b05a568912bb0a67a8df261541f3c20784721",
+      "archived_sha256": "6c0eba616196c86485d7bcb8ea7d91c6d571de38e2dd3fe65551784409fce1bf",
+      "bytes": 5436
+    },
+    {
+      "url": "https://hetland.github.io/assets/css/style.css",
+      "path": "assets/css/style.css",
+      "retrieved_utc": "2026-11-17T20:11:51Z",
+      "content_type": "text/css; charset=utf-8",
+      "original_sha256": "38ec41b2a4c4765872f17ff3b131f560da97704113ee4f7dc884a643c8628fca",
+      "archived_sha256": "38ec41b2a4c4765872f17ff3b131f560da97704113ee4f7dc884a643c8628fca",
+      "bytes": 76559
+    },
+    {
+      "url": "https://hetland.github.io/about/",
+      "path": "about/index.html",
+      "retrieved_utc": "2026-11-17T20:11:51Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "42a2e22994b65dfb9bb7739d2d84a285161995ebc1576da974f7eefd6ba0c851",
+      "archived_sha256": "360b8de6ff1797d9ba6d4a9dbacf7a411092e9236ca14ab14aff7564f44d83f0",
+      "bytes": 397
+    },
+    {
+      "url": "https://hetland.github.io/about.html",
+      "path": "about.html",
+      "retrieved_utc": "2026-11-17T20:11:51Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "42a2e22994b65dfb9bb7739d2d84a285161995ebc1576da974f7eefd6ba0c851",
+      "archived_sha256": "102623ff6b414ca6e3f10f873be171adb8da7aef2cd7ada1a1905556df2f3d3f",
+      "bytes": 385
+    },
+    {
+      "url": "https://hetland.github.io/resume",
+      "path": "resume/index.html",
+      "retrieved_utc": "2026-11-17T20:11:51Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "91991bcce5f0e0c13fb3a8df7d76de91525854cfd6098dd0e3357d0e504e2b6f",
+      "archived_sha256": "164ecee73fe9c6c46d9c042afde8f8effeadaf16f4c33b982b7cce6072fbfeca",
+      "bytes": 409
+    },
+    {
+      "url": "https://hetland.github.io/md/",
+      "path": "md/index.html",
+      "retrieved_utc": "2026-11-17T20:11:51Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "2d6346cace06a0e22c2d52560594f6fed89d5dbe90ec146ddf2c50e8f58deb86",
+      "archived_sha256": "a08ee630d4a6df9e35e2acef55d4094fa4724006a5426c8f1d2f9e77f88a6f1c",
+      "bytes": 433
+    },
+    {
+      "url": "https://hetland.github.io/markdown.html",
+      "path": "markdown.html",
+      "retrieved_utc": "2026-11-17T20:11:51Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "2d6346cace06a0e22c2d52560594f6fed89d5dbe90ec146ddf2c50e8f58deb86",
+      "archived_sha256": "8b7af43aabc0a4948bacc3dcbaa2556e61936d5535f0c153c22b258d3b95a94c",
+      "bytes": 421
+    },
+    {
+      "url": "https://hetland.github.io/projects.html",
+      "path": "projects.html",
+      "retrieved_utc": "2026-11-17T20:11:51Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "289645ebdd64f12746870c71f44ebfe35354605fb55c1a679e59dbd514a9a1ae",
+      "archived_sha256": "06cd81d3c9117a1a92e52ef7b6bafe80eecc36d0ddb15d5a725878ff3cb5cb5c",
+      "bytes": 421
+    },
+    {
+      "url": "https://hetland.github.io/wordpress/blog-posts/",
+      "path": "wordpress/blog-posts/index.html",
+      "retrieved_utc": "2026-11-17T20:11:52Z",
+      "content_type": "text/html; charset=utf-8",
+      "original_sha256": "97ba467b466d1b531cca67579cff072588264a6ffe91290ee3406a54a550f249",
+      "archived_sha256": "c4e23970e1afa6393432c377515822044bd952c2403a99cd35c4fc8fa7e33739",
+      "bytes": 461
+    },
+    {
+      "url": "https://hetland.github.io/redirects.json",
+      "path": "redirects.json",
+      "retrieved_utc": "2026-11-17T20:11:52Z",
+      "content_type": "application/json; charset=utf-8",
+      "original_sha256": "d70836d01cbf9ec052041f52168a3e19e5e20a8162dc7c396eed3a2472e336ae",
+      "archived_sha256": "d70836d01cbf9ec052041f52168a3e19e5e20a8162dc7c396eed3a2472e336ae",
+      "bytes": 347
+    },
+    {
+      "url": "https://hetland.github.io/robots.txt",
+      "path": "robots.txt",
+      "retrieved_utc": "2026-11-17T20:11:52Z",
+      "content_type": "text/plain; charset=utf-8",
+      "original_sha256": "7a58b341e9fd5582911cca639783e5d051522e38aff2af594ae58c86e8791b7e",
+      "archived_sha256": "7a58b341e9fd5582911cca639783e5d051522e38aff2af594ae58c86e8791b7e",
+      "bytes": 47
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/fa-solid-900.eot",
+      "path": "assets/fonts/fa-solid-900.eot",
+      "retrieved_utc": "2026-11-17T20:11:52Z",
+      "content_type": "application/vnd.ms-fontobject",
+      "original_sha256": "690be61fe58020511558ce4b04375178872629f6c737ed1b332aec65855fd937",
+      "archived_sha256": "690be61fe58020511558ce4b04375178872629f6c737ed1b332aec65855fd937",
+      "bytes": 197172
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/fa-solid-900.woff2",
+      "path": "assets/fonts/fa-solid-900.woff2",
+      "retrieved_utc": "2026-11-17T20:11:52Z",
+      "content_type": "font/woff2",
+      "original_sha256": "7798165ee5a3c6809310d8261dcbe7c8d0c12d795b7b09a71af3eb86ec8f33f2",
+      "archived_sha256": "7798165ee5a3c6809310d8261dcbe7c8d0c12d795b7b09a71af3eb86ec8f33f2",
+      "bytes": 73852
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/fa-solid-900.woff",
+      "path": "assets/fonts/fa-solid-900.woff",
+      "retrieved_utc": "2026-11-17T20:11:52Z",
+      "content_type": "font/woff",
+      "original_sha256": "8fb19633f125ca466a45da9e4cf291d8b9519dd74c214f99dde835ef83f3ab96",
+      "archived_sha256": "8fb19633f125ca466a45da9e4cf291d8b9519dd74c214f99dde835ef83f3ab96",
+      "bytes": 95436
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/fa-solid-900.ttf",
+      "path": "assets/fonts/fa-solid-900.ttf",
+      "retrieved_utc": "2026-11-17T20:11:52Z",
+      "content_type": "font/ttf",
+      "original_sha256": "b97adad7ece9792af4122ae88103cad8fab54558a529c4ba79b5224c2b02ebe9",
+      "archived_sha256": "b97adad7ece9792af4122ae88103cad8fab54558a529c4ba79b5224c2b02ebe9",
+      "bytes": 196952
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/fa-solid-900.svg",
+      "path": "assets/fonts/fa-solid-900.svg",
+      "retrieved_utc": "2026-11-17T20:11:53Z",
+      "content_type": "image/svg+xml",
+      "original_sha256": "22f6af77ffeeb267c5270fa1e50681ae01a9a19f8e9ef976798e0196c941ade6",
+      "archived_sha256": "22f6af77ffeeb267c5270fa1e50681ae01a9a19f8e9ef976798e0196c941ade6",
+      "bytes": 746673
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/fa-brands-400.eot",
+      "path": "assets/fonts/fa-brands-400.eot",
+      "retrieved_utc": "2026-11-17T20:11:53Z",
+      "content_type": "application/vnd.ms-fontobject",
+      "original_sha256": "9158ee2ef88ea648444ba1c9fcea310baa1e5e4e5fe86e338dcd29fcb081cfc7",
+      "archived_sha256": "9158ee2ef88ea648444ba1c9fcea310baa1e5e4e5fe86e338dcd29fcb081cfc7",
+      "bytes": 126428
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/fa-brands-400.woff2",
+      "path": "assets/fonts/fa-brands-400.woff2",
+      "retrieved_utc": "2026-11-17T20:11:53Z",
+      "content_type": "font/woff2",
+      "original_sha256": "05dbc51654b96590d176c27efbcef2cf4ac0497499a9f28b731b73eea399070c",
+      "archived_sha256": "05dbc51654b96590d176c27efbcef2cf4ac0497499a9f28b731b73eea399070c",
+      "bytes": 69608
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/fa-brands-400.woff",
+      "path": "assets/fonts/fa-brands-400.woff",
+      "retrieved_utc": "2026-11-17T20:11:53Z",
+      "content_type": "font/woff",
+      "original_sha256": "ca441c07992a7160e4d2622e78f8970c9b92f176694c8dc07592326496a801d6",
+      "archived_sha256": "ca441c07992a7160e4d2622e78f8970c9b92f176694c8dc07592326496a801d6",
+      "bytes": 81612
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/fa-brands-400.ttf",
+      "path": "assets/fonts/fa-brands-400.ttf",
+      "retrieved_utc": "2026-11-17T20:11:53Z",
+      "content_type": "font/ttf",
+      "original_sha256": "dbd08d025602b79ce71910b2a68577959cbf2ef02fc664e243bf50277754fdfc",
+      "archived_sha256": "dbd08d025602b79ce71910b2a68577959cbf2ef02fc664e243bf50277754fdfc",
+      "bytes": 126192
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/fa-brands-400.svg",
+      "path": "assets/fonts/fa-brands-400.svg",
+      "retrieved_utc": "2026-11-17T20:11:53Z",
+      "content_type": "image/svg+xml",
+      "original_sha256": "7aadbc4ac7f80413de00052694c1a44e0b0dbf0e2d7f739c628b88b28bb72bfa",
+      "archived_sha256": "7aadbc4ac7f80413de00052694c1a44e0b0dbf0e2d7f739c628b88b28bb72bfa",
+      "bytes": 713576
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/academicons.eot",
+      "path": "assets/fonts/academicons.eot",
+      "retrieved_utc": "2026-11-17T20:11:53Z",
+      "content_type": "application/vnd.ms-fontobject",
+      "original_sha256": "8682d641a9ad2c7f47417276608b91e9ede388ed86a59a5abb30c18be5c45f85",
+      "archived_sha256": "8682d641a9ad2c7f47417276608b91e9ede388ed86a59a5abb30c18be5c45f85",
+      "bytes": 38012
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/academicons.ttf",
+      "path": "assets/fonts/academicons.ttf",
+      "retrieved_utc": "2026-11-17T20:11:53Z",
+      "content_type": "font/ttf",
+      "original_sha256": "4bd6a7a0f381d58523eea0e78c0f075fae0385581ed31dac1376127fc9dfe531",
+      "archived_sha256": "4bd6a7a0f381d58523eea0e78c0f075fae0385581ed31dac1376127fc9dfe531",
+      "bytes": 37832
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/academicons.woff",
+      "path": "assets/fonts/academicons.woff",
+      "retrieved_utc": "2026-11-17T20:11:54Z",
+      "content_type": "font/woff",
+      "original_sha256": "40dc519d708cbb4b06ba3b0f6377e0f5972ed19464e5fd389b23102974eebf71",
+      "archived_sha256": "40dc519d708cbb4b06ba3b0f6377e0f5972ed19464e5fd389b23102974eebf71",
+      "bytes": 37908
+    },
+    {
+      "url": "https://hetland.github.io/assets/fonts/academicons.svg",
+      "path": "assets/fonts/academicons.svg",
+      "retrieved_utc": "2026-11-17T20:11:54Z",
+      "content_type": "image/svg+xml",
+      "original_sha256": "157fc3285ce4a3ae8ab339d3f323dba24b1a9db27539af1df1bdf5383a019a47",
+      "archived_sha256": "157fc3285ce4a3ae8ab339d3f323dba24b1a9db27539af1df1bdf5383a019a47",
+      "bytes": 162502
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://hetland.github.io/terms/",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/feed.xml",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/apple-touch-icon-57x57.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/apple-touch-icon-60x60.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/apple-touch-icon-72x72.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/apple-touch-icon-76x76.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/apple-touch-icon-114x114.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/apple-touch-icon-120x120.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/apple-touch-icon-144x144.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/apple-touch-icon-152x152.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/apple-touch-icon-180x180.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/favicon-32x32.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/android-chrome-192x192.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/favicon-96x96.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/favicon-16x16.png",
+      "status": 404
+    },
+    {
+      "url": "https://hetland.github.io/images/favicon.ico",
+      "status": 404
+    }
+  ]
+}

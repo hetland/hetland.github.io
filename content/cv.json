@@ -1,0 +1,23 @@
+{
+  "Education": [
+    {"dates":"1999","title":"Ph.D. in Oceanography","organization":"Florida State University","detail":"Tallahassee, Florida"},
+    {"dates":"1996","title":"M.S. in Oceanography","organization":"University of Maine","detail":"Orono, Maine"},
+    {"dates":"1992","title":"B.A. in Physics and Mathematics","organization":"Saint Olaf College","detail":"Northfield, Minnesota"}
+  ],
+  "Employment": [
+    {"dates":"2021–present","title":"Earth Scientist","organization":"Pacific Northwest National Laboratory"},
+    {"dates":"2013–2021","title":"Professor","organization":"Texas A&M University"},
+    {"dates":"2006–2013","title":"Associate Professor","organization":"Texas A&M University"},
+    {"dates":"2000–2006","title":"Assistant Professor","organization":"Texas A&M University"},
+    {"dates":"1999–2000","title":"Postdoctoral Investigator","organization":"USGS / Woods Hole Oceanographic Institution"},
+    {"dates":"1996–1999","title":"Graduate Research Assistant","organization":"Florida State University"},
+    {"dates":"1993–1996","title":"Graduate Research Assistant","organization":"University of Maine"}
+  ],
+  "Honors & awards": [
+    {"dates":"2007–2008","title":"Fulbright Senior Researcher","organization":"Leibniz Institute for Baltic Sea Research (IOW)","detail":"Germany"}
+  ],
+  "Affiliations": [
+    {"dates":"2022–present","title":"Joint Appointment / Visiting Scholar","organization":"Texas A&M University"},
+    {"dates":"2014–2019","title":"Adjunct Scientist","organization":"Woods Hole Oceanographic Institution"}
+  ]
+}

@@ -1,0 +1,2453 @@
+[
+  {
+    "title": "Hurricane wind field representation shapes storm surge and building-scale flood hazard estimates",
+    "authors": [
+      "Deb, Mithun",
+      "Hetland, Robert D.",
+      "Wehner, Michael F.",
+      "Yang, Zhaoqing",
+      "Balaguru, Karthik",
+      "Sun, Ning",
+      "Abdolali, Ali"
+    ],
+    "year": 2026,
+    "date": "2026-12",
+    "journal": "Coastal Engineering",
+    "volume": "212",
+    "issue": "",
+    "pages": "105127",
+    "doi": "10.1016/j.coastaleng.2026.105127",
+    "url": "https://doi.org/10.1016/j.coastaleng.2026.105127",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S037838392600181X",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W7172333397",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Towards high-fidelity simulations of coastal submesoscale baroclinic instabilities with MPAS-O (vE3SM3.0.0) – Part 1: Idealized experiments",
+    "authors": [
+      "Hinson, Kyle E.",
+      "Schlichting, Dylan R.",
+      "Hetland, Robert D.",
+      "Engwirda, Darren",
+      "Smith, Katherine M.",
+      "Petersen, Mark R.",
+      "Uyeda, Kaila"
+    ],
+    "year": 2026,
+    "date": "2026-10-30",
+    "journal": "Geoscientific Model Development",
+    "volume": "19",
+    "issue": "21",
+    "pages": "10321-10344",
+    "doi": "10.5194/gmd-19-10321-2026",
+    "url": "https://doi.org/10.5194/gmd-19-10321-2026",
+    "publisher_url": "https://gmd.copernicus.org/articles/19/10321/2026/",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W7161013172",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Towards high-fidelity simulations of coastal submesoscale  baroclinic instabilities with MPAS–O (vE3SM3.0.0)  – Part 2: Realistic experiments",
+    "authors": [
+      "Schlichting, Dylan R.",
+      "Smith, Katherine M.",
+      "Petersen, Mark R.",
+      "Hetland, Robert D.",
+      "Hinson, Kyle E.",
+      "Engwirda, Darren"
+    ],
+    "year": 2026,
+    "date": "2026-10-12",
+    "journal": "Geoscientific Model Development",
+    "volume": "19",
+    "issue": "19",
+    "pages": "9627-9650",
+    "doi": "10.5194/gmd-19-9627-2026",
+    "url": "https://doi.org/10.5194/gmd-19-9627-2026",
+    "publisher_url": "https://gmd.copernicus.org/articles/19/9627/2026/",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W7161579618",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Irrigation Expansion in the US Corn Belt: Patterns and Yield Impacts",
+    "authors": [
+      "Deines, Jillian M.",
+      "Baur, Sophie",
+      "Kendall, Anthony",
+      "Hadjimichael, Antonia",
+      "Hetland, Robert"
+    ],
+    "year": 2026,
+    "date": "2026-05",
+    "journal": "Earth's Future",
+    "volume": "14",
+    "issue": "5",
+    "pages": "e2025EF007566",
+    "doi": "10.1029/2025ef007566",
+    "url": "https://doi.org/10.1029/2025ef007566",
+    "publisher_url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007566",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W7161114253",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Seasonal variation of the surface cross-shelf exchange in the northern South China Sea: a Lagrangian perspective",
+    "authors": [
+      "Hou, Dongliang",
+      "Zu, Tingting",
+      "Liu, Zhiqiang",
+      "Qu, Lixin",
+      "Cai, Zhongya",
+      "Shu, Yeqiang",
+      "Thyng, Kristen M.",
+      "Wang, Qiang",
+      "Hetland, Robert D."
+    ],
+    "year": 2026,
+    "date": "2026-02",
+    "journal": "Acta Oceanologica Sinica",
+    "volume": "45",
+    "issue": "2",
+    "pages": "39-59",
+    "doi": "10.1007/s13131-025-2603-0",
+    "url": "https://doi.org/10.1007/s13131-025-2603-0",
+    "publisher_url": "https://link.springer.com/10.1007/s13131-025-2603-0",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W7163252056",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Numerical analysis of offshore wind-farm-induced drag effects on coastal upwelling dynamics",
+    "authors": [
+      "Li, Tianyi",
+      "Mirocha, Jeffrey",
+      "Hinson, Kyle",
+      "Gaudet, Brian",
+      "Liu, Ye",
+      "Hetland, Robert",
+      "Yang, Zhaoqing",
+      "Xia, Geng",
+      "Egerer, Ulrike",
+      "Krishnamurthy, Raghavendra"
+    ],
+    "year": 2026,
+    "date": "2026",
+    "journal": "Flow",
+    "volume": "6",
+    "issue": "",
+    "pages": "E21",
+    "doi": "10.1017/flo.2026.10059",
+    "url": "https://doi.org/10.1017/flo.2026.10059",
+    "publisher_url": "https://www.cambridge.org/core/product/identifier/S2633425926100592/type/journal_article",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W7167902811",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Observations of Subduction, Downward Heat Flux and Dense Filament Collapse in the Northern Gulf of Mexico",
+    "authors": [
+      "Hilditch, James P.",
+      "Bergentz, Kerstin",
+      "Northcott, Devon",
+      "Luko, Caique Dias",
+      "Cohanim, Kaylie",
+      "Schlichting, Dylan",
+      "Sanchez‐Rios, Alejandra",
+      "Weiss, Kaelan",
+      "Hetland, Robert",
+      "MacKinnon, Jennifer",
+      "Nash, Jonathan",
+      "Shearman, R. Kipp",
+      "Thomas, Leif N."
+    ],
+    "year": 2025,
+    "date": "2025-11",
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "130",
+    "issue": "11",
+    "pages": "e2025JC022570",
+    "doi": "10.1029/2025jc022570",
+    "url": "https://doi.org/10.1029/2025jc022570",
+    "publisher_url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022570",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4416599613",
+    "peer_reviewed": true
+  },
+  {
+    "title": "REMORA: Regional Modeling of Oceans Refined Adaptively (built on AMReX)",
+    "authors": [
+      "Klion, Hannah",
+      "Hetland, Robert",
+      "Sexton, Jean",
+      "Almgren, Ann",
+      "Grindeanu, Iulian",
+      "Hinson, Kyle",
+      "Mahadevan, Vijay"
+    ],
+    "year": 2025,
+    "date": "2025-06-11",
+    "journal": "Journal of Open Source Software",
+    "volume": "10",
+    "issue": "110",
+    "pages": "7958",
+    "doi": "10.21105/joss.07958",
+    "url": "https://doi.org/10.21105/joss.07958",
+    "publisher_url": "https://joss.theoj.org/papers/10.21105/joss.07958",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4411223680",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Near Resonance between the Shelf Ocean and Semidiurnal Atmospheric Tidal Winds",
+    "authors": [
+      "Hsu, Fucent Hsuan Wei",
+      "Schlichting, Dylan",
+      "Shearman, R. Kipp",
+      "Nash, Jonathan D.",
+      "Hetland, Robert D."
+    ],
+    "year": 2025,
+    "date": "2025-04",
+    "journal": "Journal of Physical Oceanography",
+    "volume": "55",
+    "issue": "4",
+    "pages": "397-413",
+    "doi": "10.1175/jpo-d-24-0083.1",
+    "url": "https://doi.org/10.1175/jpo-d-24-0083.1",
+    "publisher_url": "https://journals.ametsoc.org/view/journals/phoc/55/4/JPO-D-24-0083.1.xml",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4407993996",
+    "peer_reviewed": true
+  },
+  {
+    "title": "WRF-ELM v1.0: a regional climate model  to study land–atmosphere interactions  over heterogeneous land use regions",
+    "authors": [
+      "Huang, Huilin",
+      "Qian, Yun",
+      "Bisht, Gautam",
+      "Wang, Jiali",
+      "Chakraborty, Tirthankar",
+      "Hao, Dalei",
+      "Li, Jianfeng",
+      "Thurber, Travis",
+      "Singh, Balwinder",
+      "Yang, Zhao",
+      "Liu, Ye",
+      "Xue, Pengfei",
+      "Sacks, William J.",
+      "Coon, Ethan",
+      "Hetland, Robert"
+    ],
+    "year": 2025,
+    "date": "2025-03-07",
+    "journal": "Geoscientific Model Development",
+    "volume": "18",
+    "issue": "5",
+    "pages": "1427-1443",
+    "doi": "10.5194/gmd-18-1427-2025",
+    "url": "https://doi.org/10.5194/gmd-18-1427-2025",
+    "publisher_url": "https://gmd.copernicus.org/articles/18/1427/2025/",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4408174384",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Frontal Maintenance in Submesoscale Flows",
+    "authors": [
+      "Hetland, Robert D.",
+      "Qu, Lixin",
+      "Hinson, Kyle E."
+    ],
+    "year": 2025,
+    "date": "2025-02",
+    "journal": "Journal of Physical Oceanography",
+    "volume": "55",
+    "issue": "2",
+    "pages": "175-190",
+    "doi": "10.1175/jpo-d-24-0060.1",
+    "url": "https://doi.org/10.1175/jpo-d-24-0060.1",
+    "publisher_url": "https://journals.ametsoc.org/view/journals/phoc/55/2/JPO-D-24-0060.1.xml",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4406867938",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Coupled Lake‐Atmosphere‐Land Physics Uncertainties in a Great Lakes Regional Climate Model",
+    "authors": [
+      "Pringle, William J.",
+      "Huang, Chenfu",
+      "Xue, Pengfei",
+      "Wang, Jiali",
+      "Sargsyan, Khachik",
+      "Kayastha, Miraj B.",
+      "Chakraborty, T. C.",
+      "Yang, Zhao",
+      "Qian, Yun",
+      "Hetland, Robert D."
+    ],
+    "year": 2025,
+    "date": "2025-02",
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "volume": "17",
+    "issue": "2",
+    "pages": "e2024MS004337",
+    "doi": "10.1029/2024ms004337",
+    "url": "https://doi.org/10.1029/2024ms004337",
+    "publisher_url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004337",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4407829219",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Numerical Mixing Suppresses Submesoscale Baroclinic Instabilities Over Sloping Bathymetry",
+    "authors": [
+      "Schlichting, Dylan",
+      "Hetland, Robert",
+      "Jones, C. Spencer"
+    ],
+    "year": 2024,
+    "date": "2024-12",
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "volume": "16",
+    "issue": "12",
+    "pages": "e2024MS004321",
+    "doi": "10.1029/2024ms004321",
+    "url": "https://doi.org/10.1029/2024ms004321",
+    "publisher_url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004321",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4405020757",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Enhanced Cross‐Shelf Exchange by the Eddies Associated With Plume Front",
+    "authors": [
+      "Zu, Tingting",
+      "Cai, Zhongya",
+      "Qu, Lixin",
+      "Hetland, Robert D.",
+      "Huang, Caijing",
+      "Luo, Lin",
+      "Wang, Dongxiao"
+    ],
+    "year": 2024,
+    "date": "2024-11-27",
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "129",
+    "issue": "12",
+    "pages": "e2024JC021160",
+    "doi": "10.1029/2024jc021160",
+    "url": "https://doi.org/10.1029/2024jc021160",
+    "publisher_url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021160",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4404767243",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Summer Convective Precipitation Changes Over the Great Lakes Region Under a Warming Scenario",
+    "authors": [
+      "Yang, Zhao",
+      "Wang, Jiali",
+      "Qian, Yun",
+      "Chakraborty, TC",
+      "Xue, Pengfei",
+      "Pringle, William J.",
+      "Huang, Chenfu",
+      "Kayastha, Miraj Bhakta",
+      "Huang, Huilin",
+      "Li, Jianfeng",
+      "Hetland, Robert"
+    ],
+    "year": 2024,
+    "date": "2024-07-28",
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "volume": "129",
+    "issue": "14",
+    "pages": "e2024JD041011",
+    "doi": "10.1029/2024jd041011",
+    "url": "https://doi.org/10.1029/2024jd041011",
+    "publisher_url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD041011",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4401072456",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Observed Increase in Tropical Cyclone‐Induced Sea Surface Cooling Near the U.S. Southeast Coast",
+    "authors": [
+      "John, Effy B.",
+      "Balaguru, Karthik",
+      "Leung, L. Ruby",
+      "Hagos, Samson M.",
+      "Hetland, Robert D."
+    ],
+    "year": 2024,
+    "date": "2024-07-19",
+    "journal": "Geophysical Research Letters",
+    "volume": "51",
+    "issue": "14",
+    "pages": "e2024GL110087",
+    "doi": "10.1029/2024gl110087",
+    "url": "https://doi.org/10.1029/2024gl110087",
+    "publisher_url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL110087",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4400810451",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Estuarine hurricane wind can intensify surge-dominated extreme water level in shallow and converging coastal systems",
+    "authors": [
+      "Deb, Mithun",
+      "Benedict, James J.",
+      "Sun, Ning",
+      "Yang, Zhaoqing",
+      "Hetland, Robert D.",
+      "Judi, David",
+      "Wang, Taiping"
+    ],
+    "year": 2024,
+    "date": "2024-07-19",
+    "journal": "Natural Hazards and Earth System Sciences",
+    "volume": "24",
+    "issue": "7",
+    "pages": "2461-2479",
+    "doi": "10.5194/nhess-24-2461-2024",
+    "url": "https://doi.org/10.5194/nhess-24-2461-2024",
+    "publisher_url": "https://nhess.copernicus.org/articles/24/2461/2024/",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4400836658",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Response of salt intrusion in a tidal estuary to regional climatic forcing",
+    "authors": [
+      "Liu, Jinliang",
+      "Hetland, Robert",
+      "Yang, Zhaoqing",
+      "Wang, Taiping",
+      "Sun, Ning"
+    ],
+    "year": 2024,
+    "date": "2024-06-17",
+    "journal": "Environmental Research Letters",
+    "volume": "19",
+    "issue": "7",
+    "pages": "074019",
+    "doi": "10.1088/1748-9326/ad4fa1",
+    "url": "https://doi.org/10.1088/1748-9326/ad4fa1",
+    "publisher_url": "https://iopscience.iop.org/article/10.1088/1748-9326/ad4fa1",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4398244240",
+    "peer_reviewed": true
+  },
+  {
+    "title": "How Could Future Climate Conditions Reshape a Devastating Lake‐Effect Snow Storm?",
+    "authors": [
+      "Kayastha, Miraj B.",
+      "Huang, Chenfu",
+      "Wang, Jiali",
+      "Qian, Yun",
+      "Yang, Zhao",
+      "Chakraborty, TC",
+      "Pringle, William J.",
+      "Hetland, Robert D.",
+      "Xue, Pengfei"
+    ],
+    "year": 2024,
+    "date": "2024-06",
+    "journal": "Earth's Future",
+    "volume": "12",
+    "issue": "6",
+    "pages": "e2024EF004622",
+    "doi": "10.1029/2024ef004622",
+    "url": "https://doi.org/10.1029/2024ef004622",
+    "publisher_url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF004622",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4399926135",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Isopycnal Submesoscale Stirring Crucially Sustaining Subsurface Chlorophyll Maximum in Ocean Cyclonic Eddies",
+    "authors": [
+      "Cao, Haijin",
+      "Freilich, Mara",
+      "Song, Xiangzhou",
+      "Jing, Zhiyou",
+      "Fox‐Kemper, Baylor",
+      "Qiu, Bo",
+      "Hetland, Robert D.",
+      "Chai, Fei",
+      "Ruiz, Simón",
+      "Chen, Dake"
+    ],
+    "year": 2024,
+    "date": "2024-02-21",
+    "journal": "Geophysical Research Letters",
+    "volume": "51",
+    "issue": "4",
+    "pages": "e2023GL105793",
+    "doi": "10.1029/2023gl105793",
+    "url": "https://doi.org/10.1029/2023gl105793",
+    "publisher_url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105793",
+    "type": "journal-article",
+    "source": "Crossref publisher-deposited metadata",
+    "openalex_id": "https://openalex.org/W4392079416",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Intensification of Hurricane Sally (2020) over the Mississippi River Plume",
+    "authors": [
+      "John, Effy B.",
+      "Balaguru, Karthik",
+      "Leung, L. Ruby",
+      "Foltz, Gregory R.",
+      "Hetland, Robert D.",
+      "Hagos, Samson M."
+    ],
+    "year": 2023,
+    "journal": "Weather and Forecasting",
+    "volume": "38",
+    "issue": "8",
+    "pages": "1391-1404",
+    "doi": "10.1175/waf-d-22-0191.1",
+    "url": "https://doi.org/10.1175/waf-d-22-0191.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2Fwaf-d-22-0191.1",
+      "https://openalex.org/W4380877572"
+    ],
+    "date": "2023-08",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Insights on Simulating Summer Warming of the Great Lakes: Understanding the Behavior of a Newly Developed Coupled Lake‐Atmosphere Modeling System",
+    "authors": [
+      "Kayastha, Miraj B.",
+      "Huang, Chenfu",
+      "Wang, Jiali",
+      "Pringle, William J.",
+      "Chakraborty, TC",
+      "Yang, Zhao",
+      "Hetland, Robert D.",
+      "Qian, Yun",
+      "Xue, Pengfei"
+    ],
+    "year": 2023,
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "volume": "15",
+    "issue": "7",
+    "pages": "e2023MS003620",
+    "doi": "10.1029/2023ms003620",
+    "url": "https://doi.org/10.1029/2023ms003620",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F2023ms003620",
+      "https://openalex.org/W4384564349"
+    ],
+    "date": "2023-07",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Quantification of Physical and Numerical Mixing in a Coastal Ocean Model Using Salinity Variance Budgets",
+    "authors": [
+      "Schlichting, Dylan",
+      "Qu, Lixin",
+      "Kobashi, Daijiro",
+      "Hetland, Robert"
+    ],
+    "year": 2023,
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "volume": "15",
+    "issue": "4",
+    "pages": "e2022MS003380",
+    "doi": "10.1029/2022ms003380",
+    "url": "https://doi.org/10.1029/2022ms003380",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F2022ms003380",
+      "https://openalex.org/W4366290195"
+    ],
+    "date": "2023-04",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Contrasting effects of lake breeze and urbanization on heat stress in Chicago metropolitan area",
+    "authors": [
+      "Wang, Jiali",
+      "Qian, Yun",
+      "Pringle, William",
+      "Chakraborty, T.C.",
+      "Hetland, Robert",
+      "Yang, Zhao",
+      "Xue, Pengfei"
+    ],
+    "year": 2023,
+    "journal": "Urban Climate",
+    "volume": "48",
+    "issue": "",
+    "pages": "101429",
+    "doi": "10.1016/j.uclim.2023.101429",
+    "url": "https://doi.org/10.1016/j.uclim.2023.101429",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.uclim.2023.101429",
+      "https://openalex.org/W4318336158"
+    ],
+    "date": "2023-03",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Mixing Pathways in Simple Box Models",
+    "authors": [
+      "Qu, Lixin",
+      "Hetland, Robert D.",
+      "Schlichting, Dylan"
+    ],
+    "year": 2022,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "52",
+    "issue": "11",
+    "pages": "2761-2772",
+    "doi": "10.1175/jpo-d-22-0074.1",
+    "url": "https://doi.org/10.1175/jpo-d-22-0074.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2Fjpo-d-22-0074.1",
+      "https://openalex.org/W4285727731"
+    ],
+    "date": "2022-11",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Rapid vertical exchange at fronts in the Northern Gulf of Mexico",
+    "authors": [
+      "Qu, Lixin",
+      "Thomas, Leif N.",
+      "Wienkers, Aaron F.",
+      "Hetland, Robert D.",
+      "Kobashi, Daijiro",
+      "Taylor, John R.",
+      "Hsu, Fucent Hsuan Wei",
+      "MacKinnon, Jennifer A.",
+      "Shearman, R. Kipp",
+      "Nash, Jonathan D."
+    ],
+    "year": 2022,
+    "journal": "Nature Communications",
+    "volume": "13",
+    "issue": "1",
+    "pages": "5624",
+    "doi": "10.1038/s41467-022-33251-7",
+    "url": "https://doi.org/10.1038/s41467-022-33251-7",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1038%2Fs41467-022-33251-7",
+      "https://openalex.org/W4297235475"
+    ],
+    "date": "2022-09-26",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Mixing driven by critical reflection of near-inertial waves over the Texas-Louisiana shelf",
+    "authors": [
+      "Qu, Lixin",
+      "Thomas, Leif N.",
+      "Hetland, Robert D.",
+      "Kobashi, Daĳiro"
+    ],
+    "year": 2022,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "doi": "10.1175/jpo-d-22-0004.1",
+    "url": "https://doi.org/10.1175/jpo-d-22-0004.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2Fjpo-d-22-0004.1",
+      "https://openalex.org/W4285728802"
+    ],
+    "date": "2022-07-18",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Including the effects of subsurface currents on buoyant particles in Lagrangian particle tracking models: Model development and its application to the study of riverborne plastics over the Louisiana/Texas shelf",
+    "authors": [
+      "Liang, Jun-Hong",
+      "Liu, Jinliang",
+      "Benfield, Mark",
+      "Justic, Dubravko",
+      "Holstein, Daniel",
+      "Liu, Bingqing",
+      "Hetland, Robert",
+      "Kobashi, Daijiro",
+      "Dong, Changming",
+      "Dong, Weiyuan"
+    ],
+    "year": 2021,
+    "journal": "Ocean Modelling",
+    "volume": "167",
+    "issue": "",
+    "pages": "101879",
+    "doi": "10.1016/j.ocemod.2021.101879",
+    "url": "https://doi.org/10.1016/j.ocemod.2021.101879",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.ocemod.2021.101879",
+      "https://openalex.org/W3197340961"
+    ],
+    "date": "2021-11",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Near-inertial wave critical layers over sloping bathymetry",
+    "authors": [
+      "Qu, Lixin",
+      "Thomas, Leif N.",
+      "Hetland, Robert D."
+    ],
+    "year": 2021,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "doi": "10.1175/jpo-d-20-0221.1",
+    "url": "https://doi.org/10.1175/jpo-d-20-0221.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2Fjpo-d-20-0221.1",
+      "https://openalex.org/W3083718018"
+    ],
+    "date": "2021-03-17",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Development of the CSOMIO Coupled Ocean-Oil-Sediment- Biology Model",
+    "authors": [
+      "Dukhovskoy, Dmitry S.",
+      "Morey, Steven L.",
+      "Chassignet, Eric P.",
+      "Chen, Xu",
+      "Coles, Victoria J.",
+      "Cui, Linlin",
+      "Harris, Courtney K.",
+      "Hetland, Robert",
+      "Hsu, Tian-Jian",
+      "Manning, Andrew J.",
+      "Stukel, Michael",
+      "Thyng, Kristen",
+      "Wang, Jiaze"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Marine Science",
+    "volume": "8",
+    "issue": "",
+    "pages": "629299",
+    "doi": "10.3389/fmars.2021.629299",
+    "url": "https://doi.org/10.3389/fmars.2021.629299",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.3389%2Ffmars.2021.629299",
+      "https://openalex.org/W3135640544"
+    ],
+    "date": "2021-03-10",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Performance of offline passive tracer advection in the Regional Ocean Modeling System (ROMS; v3.6, revision 904)",
+    "authors": [
+      "Thyng, Kristen M.",
+      "Kobashi, Daijiro",
+      "Ruiz-Xomchuk, Veronica",
+      "Qu, Lixin",
+      "Chen, Xu",
+      "Hetland, Robert D."
+    ],
+    "year": 2021,
+    "journal": "Geoscientific Model Development",
+    "volume": "14",
+    "issue": "1",
+    "pages": "391-407",
+    "doi": "10.5194/gmd-14-391-2021",
+    "url": "https://doi.org/10.5194/gmd-14-391-2021",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.5194%2Fgmd-14-391-2021",
+      "https://openalex.org/W3122013837"
+    ],
+    "date": "2021-01-25",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Small‐Scale Variability of Bottom Oxygen in the Northern Gulf of Mexico",
+    "authors": [
+      "Ruiz Xomchuk, Veronica",
+      "Hetland, Robert D.",
+      "Qu, Lixin"
+    ],
+    "year": 2021,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "126",
+    "issue": "1",
+    "pages": "e2020JC016279",
+    "doi": "10.1029/2020jc016279",
+    "url": "https://doi.org/10.1029/2020jc016279",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F2020jc016279",
+      "https://openalex.org/W3107874390"
+    ],
+    "date": "2021-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Reproducibility and variability of submesoscale frontal eddies on a broad, low-energy shelf of freshwater influence",
+    "authors": [
+      "Kobashi, Daijiro",
+      "Hetland, Robert"
+    ],
+    "year": 2020,
+    "journal": "Ocean Dynamics",
+    "volume": "70",
+    "issue": "11",
+    "pages": "1377-1395",
+    "doi": "10.1007/s10236-020-01401-4",
+    "url": "https://doi.org/10.1007/s10236-020-01401-4",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1007%2Fs10236-020-01401-4",
+      "https://openalex.org/W3084540163"
+    ],
+    "date": "2020-11",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Hurricane Harvey Caused Unprecedented Freshwater Inflow to Galveston Bay",
+    "authors": [
+      "Thyng, Kristen M.",
+      "Hetland, Robert D.",
+      "Socolofsky, Scott A.",
+      "Fernando, Nelun",
+      "Turner, Evan L.",
+      "Schoenbaechler, Caimee"
+    ],
+    "year": 2020,
+    "journal": "Estuaries and Coasts",
+    "volume": "43",
+    "issue": "7",
+    "pages": "1836-1852",
+    "doi": "10.1007/s12237-020-00800-6",
+    "url": "https://doi.org/10.1007/s12237-020-00800-6",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1007%2Fs12237-020-00800-6",
+      "https://openalex.org/W3044336536"
+    ],
+    "date": "2020-11",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Surface Water CO2 variability in the Gulf of Mexico (1996–2017)",
+    "authors": [
+      "Kealoha, Andrea K.",
+      "Shamberger, Kathryn E. F.",
+      "DiMarco, Steven F.",
+      "Thyng, Kristen M.",
+      "Hetland, Robert D.",
+      "Manzello, Derek P.",
+      "Slowey, Niall C.",
+      "Enochs, Ian C."
+    ],
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "volume": "10",
+    "issue": "1",
+    "pages": "12279",
+    "doi": "10.1038/s41598-020-68924-0",
+    "url": "https://doi.org/10.1038/s41598-020-68924-0",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1038%2Fs41598-020-68924-0",
+      "https://openalex.org/W3044647860"
+    ],
+    "date": "2020-07-23",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Nongeostrophic Baroclinic Instability over Sloping Bathymetry: Buoyant Flow Regime",
+    "authors": [
+      "Qu, Lixin",
+      "Hetland, Robert"
+    ],
+    "year": 2020,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "50",
+    "issue": "7",
+    "pages": "1937-1956",
+    "doi": "10.1175/jpo-d-19-0145.1",
+    "url": "https://doi.org/10.1175/jpo-d-19-0145.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2Fjpo-d-19-0145.1",
+      "https://openalex.org/W3024404524"
+    ],
+    "date": "2020-07-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Stratification duration and the formation of bottom hypoxia over the Texas-Louisiana shelf",
+    "authors": [
+      "Zhang, Wenxia",
+      "Hetland, Robert D.",
+      "Ruiz, Veronica",
+      "DiMarco, Steven F.",
+      "Wu, Hui"
+    ],
+    "year": 2020,
+    "journal": "Estuarine, Coastal and Shelf Science",
+    "volume": "238",
+    "issue": "",
+    "pages": "106711",
+    "doi": "10.1016/j.ecss.2020.106711",
+    "url": "https://doi.org/10.1016/j.ecss.2020.106711",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.ecss.2020.106711",
+      "https://openalex.org/W3011997642"
+    ],
+    "date": "2020-06",
+    "peer_reviewed": true
+  },
+  {
+    "title": "River plume source-front connectivity",
+    "authors": [
+      "Cole, Kelly L.",
+      "MacDonald, Daniel G.",
+      "Kakoulaki, Georgia",
+      "Hetland, Robert D."
+    ],
+    "year": 2020,
+    "journal": "Ocean Modelling",
+    "volume": "150",
+    "issue": "",
+    "pages": "101571",
+    "doi": "10.1016/j.ocemod.2020.101571",
+    "url": "https://doi.org/10.1016/j.ocemod.2020.101571",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.ocemod.2020.101571",
+      "https://openalex.org/W3008397308"
+    ],
+    "date": "2020-06",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Localized hypoxia may have caused coral reef mortality at the Flower Garden Banks",
+    "authors": [
+      "Kealoha, Andrea K.",
+      "Doyle, Shawn M.",
+      "Shamberger, Kathryn E. F.",
+      "Sylvan, Jason B.",
+      "Hetland, Robert D.",
+      "DiMarco, Steven F."
+    ],
+    "year": 2020,
+    "journal": "Coral Reefs",
+    "volume": "39",
+    "issue": "1",
+    "pages": "119-132",
+    "doi": "10.1007/s00338-019-01883-9",
+    "url": "https://doi.org/10.1007/s00338-019-01883-9",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1007%2Fs00338-019-01883-9",
+      "https://openalex.org/W2993492454"
+    ],
+    "date": "2020-02",
+    "peer_reviewed": true
+  },
+  {
+    "title": "On Mechanisms Controlling the Seasonal Hypoxia Hot Spots off the Changjiang River Estuary",
+    "authors": [
+      "Zhang, Wenxia",
+      "Wu, Hui",
+      "Hetland, Robert D.",
+      "Zhu, Zhuoyi"
+    ],
+    "year": 2019,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "124",
+    "issue": "12",
+    "pages": "8683-8700",
+    "doi": "10.1029/2019jc015322",
+    "url": "https://doi.org/10.1029/2019jc015322",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F2019jc015322",
+      "https://openalex.org/W2992708848"
+    ],
+    "date": "2019-12",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Temporal Resolution of Wind Forcing Required for River Plume Simulations",
+    "authors": [
+      "Qu, Lixin",
+      "Hetland, Robert D."
+    ],
+    "year": 2019,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "124",
+    "issue": "3",
+    "pages": "1459-1473",
+    "doi": "10.1029/2018jc014593",
+    "url": "https://doi.org/10.1029/2018jc014593",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F2018jc014593",
+      "https://openalex.org/W2915329056"
+    ],
+    "date": "2019-03",
+    "peer_reviewed": true
+  },
+  {
+    "title": "From Bubbles to Beaches: An Integrated Modeling Approach to Oil Spill Response",
+    "authors": [
+      "Chapman, Piers",
+      "DiMarco, Steven",
+      "Hetland, Robert",
+      "Socolofsky, Scott"
+    ],
+    "year": 2018,
+    "journal": "Marine Technology Society Journal",
+    "volume": "52",
+    "issue": "6",
+    "pages": "91-94",
+    "doi": "10.4031/mtsj.52.6.4",
+    "url": "https://doi.org/10.4031/mtsj.52.6.4",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.4031%2Fmtsj.52.6.4",
+      "https://openalex.org/W2907344589"
+    ],
+    "date": "2018-11-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Seasonal and interannual cross-shelf transport over the Texas and Louisiana continental shelf",
+    "authors": [
+      "Thyng, Kristen M.",
+      "Hetland, Robert D."
+    ],
+    "year": 2018,
+    "journal": "Continental Shelf Research",
+    "volume": "160",
+    "issue": "",
+    "pages": "23-35",
+    "doi": "10.1016/j.csr.2018.03.006",
+    "url": "https://doi.org/10.1016/j.csr.2018.03.006",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.csr.2018.03.006",
+      "https://openalex.org/W2793761126"
+    ],
+    "date": "2018-05",
+    "peer_reviewed": true
+  },
+  {
+    "title": "A Study of Baroclinic Instability Induced Convergence Near the Bottom Using Water Age Simulations",
+    "authors": [
+      "Zhang, Wenxia",
+      "Hetland, Robert D."
+    ],
+    "year": 2018,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "123",
+    "issue": "3",
+    "pages": "1962-1977",
+    "doi": "10.1002/2017jc013561",
+    "url": "https://doi.org/10.1002/2017jc013561",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1002%2F2017jc013561",
+      "https://openalex.org/W2795194230"
+    ],
+    "date": "2018-03",
+    "peer_reviewed": true
+  },
+  {
+    "title": "The Asymmetric Continental Shelf Wave in Response to the Synoptic Wind Burst in a Semienclosed Double‐Shelf Basin",
+    "authors": [
+      "Qu, Lixin",
+      "Lin, Xiaopei",
+      "Hetland, Robert D.",
+      "Guo, Jingsong"
+    ],
+    "year": 2018,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "123",
+    "issue": "1",
+    "pages": "131-148",
+    "doi": "10.1002/2017jc013025",
+    "url": "https://doi.org/10.1002/2017jc013025",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1002%2F2017jc013025",
+      "https://openalex.org/W2871131305"
+    ],
+    "date": "2018-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Using an Isohaline Flux Analysis to Predict the Salt Content in an Unsteady Estuary",
+    "authors": [
+      "Rayson, Matthew D.",
+      "Gross, Edward S.",
+      "Hetland, Robert D.",
+      "Fringer, Oliver B."
+    ],
+    "year": 2017,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "47",
+    "issue": "11",
+    "pages": "2811-2828",
+    "doi": "10.1175/jpo-d-16-0134.1",
+    "url": "https://doi.org/10.1175/jpo-d-16-0134.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2Fjpo-d-16-0134.1",
+      "https://openalex.org/W2759550008"
+    ],
+    "date": "2017-11",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Texas and Louisiana coastal vulnerability and shelf connectivity",
+    "authors": [
+      "Thyng, Kristen M.",
+      "Hetland, Robert D."
+    ],
+    "year": 2017,
+    "journal": "Marine Pollution Bulletin",
+    "volume": "116",
+    "issue": "1-2",
+    "pages": "226-233",
+    "doi": "10.1016/j.marpolbul.2016.12.074",
+    "url": "https://doi.org/10.1016/j.marpolbul.2016.12.074",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.marpolbul.2016.12.074",
+      "https://openalex.org/W2570833927"
+    ],
+    "date": "2017-03",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Suppression of Baroclinic Instabilities in Buoyancy-Driven Flow over Sloping Bathymetry",
+    "authors": [
+      "Hetland, Robert D."
+    ],
+    "year": 2017,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "47",
+    "issue": "1",
+    "pages": "49-68",
+    "doi": "10.1175/jpo-d-15-0240.1",
+    "url": "https://doi.org/10.1175/jpo-d-15-0240.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2Fjpo-d-15-0240.1",
+      "https://openalex.org/W2527890756"
+    ],
+    "date": "2017-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "What Happened to All of the Oil?",
+    "authors": [
+      "Passow, Uta",
+      "Hetland, Robert"
+    ],
+    "year": 2016,
+    "journal": "Oceanography",
+    "volume": "29",
+    "issue": "3",
+    "pages": "88-95",
+    "doi": "10.5670/oceanog.2016.73",
+    "url": "https://doi.org/10.5670/oceanog.2016.73",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.5670%2Foceanog.2016.73",
+      "https://openalex.org/W2517671612"
+    ],
+    "date": "2016-09-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "True Colors of Oceanography: Guidelines for Effective and Accurate Colormap Selection",
+    "authors": [
+      "Thyng, Kristen",
+      "Greene, Chad",
+      "Hetland, Robert",
+      "Zimmerle, Heather",
+      "DiMarco, Steven"
+    ],
+    "year": 2016,
+    "journal": "Oceanography",
+    "volume": "29",
+    "issue": "3",
+    "pages": "9-13",
+    "doi": "10.5670/oceanog.2016.66",
+    "url": "https://doi.org/10.5670/oceanog.2016.66",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.5670%2Foceanog.2016.66",
+      "https://openalex.org/W2512174018"
+    ],
+    "date": "2016-09-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Effects of model physics on hypoxia simulations for the northern Gulf of Mexico: A model intercomparison",
+    "authors": [
+      "Fennel, Katja",
+      "Laurent, Arnaud",
+      "Hetland, Robert",
+      "Justić, Dubravko",
+      "Ko, Dong S.",
+      "Lehrter, John",
+      "Murrell, Michael",
+      "Wang, Lixia",
+      "Yu, Liuqian",
+      "Zhang, Wenxia"
+    ],
+    "year": 2016,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "121",
+    "issue": "8",
+    "pages": "5731-5750",
+    "doi": "10.1002/2015jc011577",
+    "url": "https://doi.org/10.1002/2015jc011577",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1002%2F2015jc011577",
+      "https://openalex.org/W2468252204"
+    ],
+    "date": "2016-08",
+    "peer_reviewed": true
+  },
+  {
+    "title": "The Effects of Rotation and River Discharge on Net Mixing in Small-Mouth Kelvin Number Plumes",
+    "authors": [
+      "Cole, Kelly L.",
+      "Hetland, Robert D."
+    ],
+    "year": 2016,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "46",
+    "issue": "5",
+    "pages": "1421-1436",
+    "doi": "10.1175/jpo-d-13-0271.1",
+    "url": "https://doi.org/10.1175/jpo-d-13-0271.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2Fjpo-d-13-0271.1",
+      "https://openalex.org/W2223180731"
+    ],
+    "date": "2016-05",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Shelf sediment transport during hurricanes Katrina and Rita",
+    "authors": [
+      "Xu, Kehui",
+      "Mickey, Rangley C.",
+      "Chen, Qin",
+      "Harris, Courtney K.",
+      "Hetland, Robert D.",
+      "Hu, Kelin",
+      "Wang, Jiaze"
+    ],
+    "year": 2016,
+    "journal": "Computers & Geosciences",
+    "volume": "90",
+    "issue": "",
+    "pages": "24-39",
+    "doi": "10.1016/j.cageo.2015.10.009",
+    "url": "https://doi.org/10.1016/j.cageo.2015.10.009",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.cageo.2015.10.009",
+      "https://openalex.org/W2190410663"
+    ],
+    "date": "2016-05",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Time scales in Galveston Bay: An unsteady estuary",
+    "authors": [
+      "Rayson, Matthew D.",
+      "Gross, Edward S.",
+      "Hetland, Robert D.",
+      "Fringer, Oliver B."
+    ],
+    "year": 2016,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "121",
+    "issue": "4",
+    "pages": "2268-2285",
+    "doi": "10.1002/2015jc011181",
+    "url": "https://doi.org/10.1002/2015jc011181",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1002%2F2015jc011181",
+      "https://openalex.org/W2505520751"
+    ],
+    "date": "2016-04",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Identifying bloom origins of the toxic dinoflagellate Karenia brevis in the western Gulf of Mexico using a spatially explicit individual-based model",
+    "authors": [
+      "Henrichs, Darren W.",
+      "Hetland, Robert D.",
+      "Campbell, Lisa"
+    ],
+    "year": 2015,
+    "journal": "Ecological Modelling",
+    "volume": "313",
+    "issue": "",
+    "pages": "251-258",
+    "doi": "10.1016/j.ecolmodel.2015.06.038",
+    "url": "https://doi.org/10.1016/j.ecolmodel.2015.06.038",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.ecolmodel.2015.06.038",
+      "https://openalex.org/W1216381921"
+    ],
+    "date": "2015-10",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Processes controlling mid‐water column oxygen minima over the Texas‐Louisiana shelf",
+    "authors": [
+      "Zhang, Wenxia",
+      "Hetland, Robert D.",
+      "DiMarco, Steven F.",
+      "Fennel, Katja"
+    ],
+    "year": 2015,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "120",
+    "issue": "4",
+    "pages": "2800-2812",
+    "doi": "10.1002/2014jc010568",
+    "url": "https://doi.org/10.1002/2014jc010568",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1002%2F2014jc010568",
+      "https://openalex.org/W2139498011"
+    ],
+    "date": "2015-04",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Mixing and Transport in Coastal River Plumes",
+    "authors": [
+      "Horner-Devine, Alexander R.",
+      "Hetland, Robert D.",
+      "MacDonald, Daniel G."
+    ],
+    "year": 2015,
+    "journal": "Annual Review of Fluid Mechanics",
+    "volume": "47",
+    "issue": "1",
+    "pages": "569-594",
+    "doi": "10.1146/annurev-fluid-010313-141408",
+    "url": "https://doi.org/10.1146/annurev-fluid-010313-141408",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1146%2Fannurev-fluid-010313-141408",
+      "https://openalex.org/W2096459485"
+    ],
+    "date": "2015-01-03",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Current–wave interaction in the Mississippi–Atchafalaya river plume on the Texas–Louisiana shelf",
+    "authors": [
+      "Rong, Zengrui",
+      "Hetland, Robert D.",
+      "Zhang, Wenxia",
+      "Zhang, Xiaoqian"
+    ],
+    "year": 2014,
+    "journal": "Ocean Modelling",
+    "volume": "84",
+    "issue": "",
+    "pages": "67-83",
+    "doi": "10.1016/j.ocemod.2014.09.008",
+    "url": "https://doi.org/10.1016/j.ocemod.2014.09.008",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.ocemod.2014.09.008",
+      "https://openalex.org/W2031492215"
+    ],
+    "date": "2014-12",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Wind‐modulated buoyancy circulation over the Texas‐Louisiana shelf",
+    "authors": [
+      "Zhang, Zhaoru",
+      "Hetland, Robert",
+      "Zhang, Xiaoqian"
+    ],
+    "year": 2014,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "119",
+    "issue": "9",
+    "pages": "5705-5723",
+    "doi": "10.1002/2013jc009763",
+    "url": "https://doi.org/10.1002/2013jc009763",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1002%2F2013jc009763",
+      "https://openalex.org/W2052104269"
+    ],
+    "date": "2014-09",
+    "peer_reviewed": true
+  },
+  {
+    "title": "TracPy: Wrapping the Fortran Lagrangian trajectory model TRACMASS",
+    "authors": [
+      "Thyng, Kristen",
+      "Hetland, Robert"
+    ],
+    "year": 2014,
+    "journal": "Proceedings of the Python in Science Conference",
+    "volume": "",
+    "issue": "",
+    "pages": "79-84",
+    "doi": "10.25080/majora-14bd3278-00d",
+    "url": "https://doi.org/10.25080/majora-14bd3278-00d",
+    "type": "proceedings-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.25080%2Fmajora-14bd3278-00d",
+      "https://scipy-conference.readthedocs.io/ja/latest/manual/committees/proceedings.html"
+    ],
+    "date": "2014-07",
+    "peer_reviewed": true
+  },
+  {
+    "title": "From blowout to beach: An integrated modeling approach",
+    "authors": [
+      "Chapman, Piers",
+      "Socolofsky, Scott",
+      "Hetland, Robert"
+    ],
+    "year": 2014,
+    "date": "2014-05-01",
+    "journal": "International Oil Spill Conference Proceedings",
+    "volume": "2014",
+    "issue": "1",
+    "pages": "919-932",
+    "doi": "10.7901/2169-3358-2014.1.919",
+    "url": "https://doi.org/10.7901/2169-3358-2014.1.919",
+    "type": "proceedings-article",
+    "peer_reviewed": true,
+    "source_urls": [
+      "https://api.crossref.org/works/10.7901%2F2169-3358-2014.1.919",
+      "https://repository.library.noaa.gov/view/noaa/64452/noaa_64452_DS1.pdf"
+    ],
+    "source": "Crossref publisher metadata; IOSC peer-review documented by NOAA-hosted conference history"
+  },
+  {
+    "title": "A model study of the response of hypoxia to upwelling-favorable wind on the northern Gulf of Mexico shelf",
+    "authors": [
+      "Feng, Yang",
+      "Fennel, Katja",
+      "Jackson, George A.",
+      "DiMarco, Steven F.",
+      "Hetland, Robert D."
+    ],
+    "year": 2014,
+    "journal": "Journal of Marine Systems",
+    "volume": "131",
+    "issue": "",
+    "pages": "63-73",
+    "doi": "10.1016/j.jmarsys.2013.11.009",
+    "url": "https://doi.org/10.1016/j.jmarsys.2013.11.009",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.jmarsys.2013.11.009",
+      "https://openalex.org/W2089911835"
+    ],
+    "date": "2014-03",
+    "peer_reviewed": true
+  },
+  {
+    "title": "The dynamics of cooling water discharge in a shallow, non-tidal embayment",
+    "authors": [
+      "Hofmeister, Richard",
+      "Bolding, Karsten",
+      "Hetland, Robert D.",
+      "Schernewski, Gerald",
+      "Siegel, Herbert",
+      "Burchard, Hans"
+    ],
+    "year": 2013,
+    "journal": "Continental Shelf Research",
+    "volume": "71",
+    "issue": "",
+    "pages": "68-77",
+    "doi": "10.1016/j.csr.2013.10.006",
+    "url": "https://doi.org/10.1016/j.csr.2013.10.006",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.csr.2013.10.006",
+      "https://openalex.org/W2054065554"
+    ],
+    "date": "2013-12",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Efficient tools for marine operational forecast and oil spill tracking",
+    "authors": [
+      "Marta-Almeida, Martinho",
+      "Ruiz-Villarreal, Manuel",
+      "Pereira, Janini",
+      "Otero, Pablo",
+      "Cirano, Mauro",
+      "Zhang, Xiaoqian",
+      "Hetland, Robert D"
+    ],
+    "year": 2013,
+    "journal": "Marine Pollution Bulletin",
+    "volume": "71",
+    "issue": "1-2",
+    "pages": "139-151",
+    "doi": "10.1016/j.marpolbul.2013.03.022",
+    "url": "https://doi.org/10.1016/j.marpolbul.2013.03.022",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.marpolbul.2013.03.022",
+      "https://openalex.org/W2033440373"
+    ],
+    "date": "2013-06",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Evaluation of model nesting performance on the Texas‐Louisiana continental shelf",
+    "authors": [
+      "Marta-Almeida, Martinho",
+      "Hetland, Robert D.",
+      "Zhang, Xiaoqian"
+    ],
+    "year": 2013,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "118",
+    "issue": "5",
+    "pages": "2476-2491",
+    "doi": "10.1002/jgrc.20163",
+    "url": "https://doi.org/10.1002/jgrc.20163",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1002%2Fjgrc.20163",
+      "https://openalex.org/W1910532494"
+    ],
+    "date": "2013-05",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Sensitivity of hypoxia predictions for the northern Gulf of Mexico to sediment oxygen consumption and model nesting",
+    "authors": [
+      "Fennel, Katja",
+      "Hu, Jiatang",
+      "Laurent, Arnaud",
+      "Marta‐Almeida, Martinho",
+      "Hetland, Robert"
+    ],
+    "year": 2013,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "118",
+    "issue": "2",
+    "pages": "990-1002",
+    "doi": "10.1002/jgrc.20077",
+    "url": "https://doi.org/10.1002/jgrc.20077",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1002%2Fjgrc.20077",
+      "https://openalex.org/W1485758903"
+    ],
+    "date": "2013-02",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Origins of Karenia brevis harmful algal blooms along the Texas coast",
+    "authors": [
+      "Thyng, Kristen M.",
+      "Hetland, Robert D.",
+      "Ogle, Marcus T.",
+      "Zhang, Xiaoqian",
+      "Chen, Fei",
+      "Campbell, Lisa"
+    ],
+    "year": 2013,
+    "journal": "Limnology and Oceanography: Fluids and Environments",
+    "volume": "3",
+    "issue": "1",
+    "pages": "269-278",
+    "doi": "10.1215/21573689-2417719",
+    "url": "https://doi.org/10.1215/21573689-2417719",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1215%2F21573689-2417719",
+      "https://openalex.org/W2043076858"
+    ],
+    "date": "2013-02",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Simulating the effects of phosphorus limitation in the Mississippi and Atchafalaya River plumes",
+    "authors": [
+      "Laurent, A.",
+      "Fennel, K.",
+      "Hu, J.",
+      "Hetland, R."
+    ],
+    "year": 2012,
+    "journal": "Biogeosciences",
+    "volume": "9",
+    "issue": "11",
+    "pages": "4707-4723",
+    "doi": "10.5194/bg-9-4707-2012",
+    "url": "https://doi.org/10.5194/bg-9-4707-2012",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.5194%2Fbg-9-4707-2012",
+      "https://openalex.org/W1996107419"
+    ],
+    "date": "2012-11-22",
+    "peer_reviewed": true
+  },
+  {
+    "title": "A numerical study on convergence of alongshore flows over the Texas‐Louisiana shelf",
+    "authors": [
+      "Zhang, Zhaoru",
+      "Hetland, Robert"
+    ],
+    "year": 2012,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "117",
+    "issue": "C11",
+    "pages": "2012JC008145",
+    "doi": "10.1029/2012jc008145",
+    "url": "https://doi.org/10.1029/2012jc008145",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F2012jc008145",
+      "https://openalex.org/W2063501199"
+    ],
+    "date": "2012-11",
+    "peer_reviewed": true
+  },
+  {
+    "title": "A numerical investigation of the Mississippi and Atchafalaya freshwater transport, filling and flushing times on the Texas‐Louisiana Shelf",
+    "authors": [
+      "Zhang, Xiaoqian",
+      "Hetland, Robert D.",
+      "Marta‐Almeida, Martinho",
+      "DiMarco, Steven F."
+    ],
+    "year": 2012,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "117",
+    "issue": "C11",
+    "pages": "2012JC008108",
+    "doi": "10.1029/2012jc008108",
+    "url": "https://doi.org/10.1029/2012jc008108",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F2012jc008108",
+      "https://openalex.org/W1968504807"
+    ],
+    "date": "2012-11",
+    "peer_reviewed": true
+  },
+  {
+    "title": "A high-resolution pre-operational forecast model of circulation on the Texas-Louisiana continental shelf and slope",
+    "authors": [
+      "Zhang, X",
+      "Marta-Almeida, M",
+      "Hetland, R D"
+    ],
+    "year": 2012,
+    "journal": "Journal of Operational Oceanography",
+    "volume": "5",
+    "issue": "1",
+    "pages": "19-34",
+    "doi": "10.1080/1755876x.2012.11020129",
+    "url": "https://doi.org/10.1080/1755876x.2012.11020129",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1080%2F1755876x.2012.11020129",
+      "https://openalex.org/W2465890064"
+    ],
+    "date": "2012-02-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Skill assessment of a hydrodynamic model of circulation over the Texas–Louisiana continental shelf",
+    "authors": [
+      "Hetland, Robert D.",
+      "DiMarco, Steven F."
+    ],
+    "year": 2012,
+    "journal": "Ocean Modelling",
+    "volume": "43-44",
+    "issue": "",
+    "pages": "64-76",
+    "doi": "10.1016/j.ocemod.2011.11.009",
+    "url": "https://doi.org/10.1016/j.ocemod.2011.11.009",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.ocemod.2011.11.009",
+      "https://openalex.org/W2130004586"
+    ],
+    "date": "2012",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Impacts of diverted freshwater on dissolved organic matter and microbial communities in Barataria Bay, Louisiana, U.S.A.",
+    "authors": [
+      "Bianchi, Thomas S.",
+      "Cook, Robert L.",
+      "Perdue, E. Michael",
+      "Kolic, Paulina E.",
+      "Green, Nelson",
+      "Zhang, Yaoling",
+      "Smith, Richard W.",
+      "Kolker, Alexander S.",
+      "Ameen, Alex",
+      "King, Gary",
+      "Ojwang, Loice M.",
+      "Schneider, Caroline L.",
+      "Normand, Anna E.",
+      "Hetland, Robert"
+    ],
+    "year": 2011,
+    "journal": "Marine Environmental Research",
+    "volume": "72",
+    "issue": "5",
+    "pages": "248-257",
+    "doi": "10.1016/j.marenvres.2011.09.007",
+    "url": "https://doi.org/10.1016/j.marenvres.2011.09.007",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.marenvres.2011.09.007",
+      "https://openalex.org/W2035626093"
+    ],
+    "date": "2011-12",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Multivariable statistical regression models of the areal extent of hypoxia over the Texas–Louisiana continental shelf",
+    "authors": [
+      "Forrest, David R",
+      "Hetland, Robert D",
+      "DiMarco, Steven F"
+    ],
+    "year": 2011,
+    "journal": "Environmental Research Letters",
+    "volume": "6",
+    "issue": "4",
+    "pages": "045002",
+    "doi": "10.1088/1748-9326/6/4/045002",
+    "url": "https://doi.org/10.1088/1748-9326/6/4/045002",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1088%2F1748-9326%2F6%2F4%2F045002",
+      "https://openalex.org/W2122353845"
+    ],
+    "date": "2011-10-01",
+    "peer_reviewed": true,
+    "correction_url": "https://doi.org/10.1088/1748-9326/7/1/019501"
+  },
+  {
+    "title": "Dispersal of Mississippi and Atchafalaya sediment on the Texas–Louisiana shelf: Model estimates for the year 1993",
+    "authors": [
+      "Xu, Kehui",
+      "Harris, Courtney K.",
+      "Hetland, Robert D.",
+      "Kaihatu, James M."
+    ],
+    "year": 2011,
+    "journal": "Continental Shelf Research",
+    "volume": "31",
+    "issue": "15",
+    "pages": "1558-1575",
+    "doi": "10.1016/j.csr.2011.05.008",
+    "url": "https://doi.org/10.1016/j.csr.2011.05.008",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.csr.2011.05.008",
+      "https://openalex.org/W2047318157"
+    ],
+    "date": "2011-10",
+    "peer_reviewed": true
+  },
+  {
+    "title": "A coupled physical-biological model of the Northern Gulf of Mexico shelf: model description, validation and analysis of phytoplankton variability",
+    "authors": [
+      "Fennel, K.",
+      "Hetland, R.",
+      "Feng, Y.",
+      "DiMarco, S."
+    ],
+    "year": 2011,
+    "journal": "Biogeosciences",
+    "volume": "8",
+    "issue": "7",
+    "pages": "1881-1899",
+    "doi": "10.5194/bg-8-1881-2011",
+    "url": "https://doi.org/10.5194/bg-8-1881-2011",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.5194%2Fbg-8-1881-2011",
+      "https://openalex.org/W2039568707"
+    ],
+    "date": "2011-07-13",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Drivers of Residual Estuarine Circulation in Tidally Energetic Estuaries: Straight and Irrotational Channels with Parabolic Cross Section",
+    "authors": [
+      "Burchard, Hans",
+      "Hetland, Robert D.",
+      "Schulz, Elisabeth",
+      "Schuttelaars, Henk M."
+    ],
+    "year": 2011,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "41",
+    "issue": "3",
+    "pages": "548-570",
+    "doi": "10.1175/2010jpo4453.1",
+    "url": "https://doi.org/10.1175/2010jpo4453.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2F2010jpo4453.1",
+      "https://openalex.org/W2062108878"
+    ],
+    "date": "2011-03-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Quantifying the Contributions of Tidal Straining and Gravitational Circulation to Residual Circulation in Periodically Stratified Tidal Estuaries",
+    "authors": [
+      "Burchard, Hans",
+      "Hetland, Robert D."
+    ],
+    "year": 2010,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "40",
+    "issue": "6",
+    "pages": "1243-1262",
+    "doi": "10.1175/2010jpo4270.1",
+    "url": "https://doi.org/10.1175/2010jpo4270.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2F2010jpo4270.1",
+      "https://openalex.org/W2048216468"
+    ],
+    "date": "2010-06-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "The science of hypoxia in the Northern Gulf of Mexico: A review",
+    "authors": [
+      "Bianchi, T.S.",
+      "DiMarco, S.F.",
+      "Cowan, J.H.",
+      "Hetland, R.D.",
+      "Chapman, P.",
+      "Day, J.W.",
+      "Allison, M.A."
+    ],
+    "year": 2010,
+    "journal": "Science of The Total Environment",
+    "volume": "408",
+    "issue": "7",
+    "pages": "1471-1484",
+    "doi": "10.1016/j.scitotenv.2009.11.047",
+    "url": "https://doi.org/10.1016/j.scitotenv.2009.11.047",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.scitotenv.2009.11.047",
+      "https://openalex.org/W2067470833"
+    ],
+    "date": "2010-03",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Does local topography control hypoxia on the eastern Texas–Louisiana shelf?",
+    "authors": [
+      "DiMarco, Steven F.",
+      "Chapman, Piers",
+      "Walker, Nan",
+      "Hetland, Robert D."
+    ],
+    "year": 2010,
+    "journal": "Journal of Marine Systems",
+    "volume": "80",
+    "issue": "1-2",
+    "pages": "25-35",
+    "doi": "10.1016/j.jmarsys.2009.08.005",
+    "url": "https://doi.org/10.1016/j.jmarsys.2009.08.005",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.jmarsys.2009.08.005",
+      "https://openalex.org/W1975550524"
+    ],
+    "date": "2010-02",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Estuarine Overmixing",
+    "authors": [
+      "Hetland, Robert D."
+    ],
+    "year": 2010,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "40",
+    "issue": "1",
+    "pages": "199-211",
+    "doi": "10.1175/2009jpo4247.1",
+    "url": "https://doi.org/10.1175/2009jpo4247.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2F2009jpo4247.1",
+      "https://openalex.org/W4246412958"
+    ],
+    "date": "2010-01-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "A Numerical Study of Sea-Breeze-Driven Ocean Poincare Wave Propagation and Mixing near the Critical Latitude",
+    "authors": [
+      "Zhang, Xiaoqian",
+      "Smith, David C.",
+      "DiMarco, Steven F.",
+      "Hetland, Robert D."
+    ],
+    "year": 2010,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "40",
+    "issue": "1",
+    "pages": "48-66",
+    "doi": "10.1175/2009jpo4216.1",
+    "url": "https://doi.org/10.1175/2009jpo4216.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2F2009jpo4216.1",
+      "https://openalex.org/W2025632169"
+    ],
+    "date": "2010-01-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "The effects of mixing and spreading on density in near-field river plumes",
+    "authors": [
+      "Hetland, Robert D."
+    ],
+    "year": 2010,
+    "journal": "Dynamics of Atmospheres and Oceans",
+    "volume": "49",
+    "issue": "1",
+    "pages": "37-53",
+    "doi": "10.1016/j.dynatmoce.2008.11.003",
+    "url": "https://doi.org/10.1016/j.dynatmoce.2008.11.003",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.dynatmoce.2008.11.003",
+      "https://openalex.org/W2062453740"
+    ],
+    "date": "2010-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Numerical investigations of the turbulent kinetic energy dissipation rate in the Rhine region of freshwater influence",
+    "authors": [
+      "Fischer, Elisabeth",
+      "Burchard, Hans",
+      "Hetland, Robert D."
+    ],
+    "year": 2009,
+    "journal": "Ocean Dynamics",
+    "volume": "59",
+    "issue": "5",
+    "pages": "629-641",
+    "doi": "10.1007/s10236-009-0187-4",
+    "url": "https://doi.org/10.1007/s10236-009-0187-4",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1007%2Fs10236-009-0187-4",
+      "https://openalex.org/W2152465665"
+    ],
+    "date": "2009-11",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Near-Resonant Ocean Response to Sea Breeze on a Stratified Continental Shelf",
+    "authors": [
+      "Zhang, Xiaoqian",
+      "DiMarco, Steven F.",
+      "Smith, David C.",
+      "Howard, Matthew K.",
+      "Jochens, Ann E.",
+      "Hetland, Robert D."
+    ],
+    "year": 2009,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "39",
+    "issue": "9",
+    "pages": "2137-2155",
+    "doi": "10.1175/2009jpo4054.1",
+    "url": "https://doi.org/10.1175/2009jpo4054.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2F2009jpo4054.1",
+      "https://openalex.org/W2078843736"
+    ],
+    "date": "2009-09-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Lateral spreading of a near‐field river plume: Observations and numerical simulations",
+    "authors": [
+      "Chen, Fei",
+      "MacDonald, Daniel G.",
+      "Hetland, Robert D."
+    ],
+    "year": 2009,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "114",
+    "issue": "C7",
+    "pages": "2008JC004893",
+    "doi": "10.1029/2008jc004893",
+    "url": "https://doi.org/10.1029/2008jc004893",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F2008jc004893",
+      "https://openalex.org/W2124834261"
+    ],
+    "date": "2009-07",
+    "peer_reviewed": true
+  },
+  {
+    "title": "How does the character of oxygen demand control the structure of hypoxia on the Texas–Louisiana continental shelf?",
+    "authors": [
+      "Hetland, Robert D.",
+      "DiMarco, Steven F."
+    ],
+    "year": 2008,
+    "journal": "Journal of Marine Systems",
+    "volume": "70",
+    "issue": "1-2",
+    "pages": "49-62",
+    "doi": "10.1016/j.jmarsys.2007.03.002",
+    "url": "https://doi.org/10.1016/j.jmarsys.2007.03.002",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.jmarsys.2007.03.002",
+      "https://openalex.org/W1986698309"
+    ],
+    "date": "2008-03",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Spreading in the near-field Merrimack River plume",
+    "authors": [
+      "Hetland, Robert D.",
+      "MacDonald, Daniel G."
+    ],
+    "year": 2008,
+    "journal": "Ocean Modelling",
+    "volume": "21",
+    "issue": "1-2",
+    "pages": "12-21",
+    "doi": "10.1016/j.ocemod.2007.11.001",
+    "url": "https://doi.org/10.1016/j.ocemod.2007.11.001",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.ocemod.2007.11.001",
+      "https://openalex.org/W2153274518"
+    ],
+    "date": "2008",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Forecasting Gulf’s hypoxia: The next 50 years?",
+    "authors": [
+      "Justić, Dubravko",
+      "Bierman, Victor J.",
+      "Scavia, Donald",
+      "Hetland, Robert D."
+    ],
+    "year": 2007,
+    "journal": "Estuaries and Coasts",
+    "volume": "30",
+    "issue": "5",
+    "pages": "791-801",
+    "doi": "10.1007/bf02841334",
+    "url": "https://doi.org/10.1007/bf02841334",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1007%2Fbf02841334",
+      "https://openalex.org/W2094295230"
+    ],
+    "date": "2007-10",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Convergent blooms of Karenia brevis along the Texas coast",
+    "authors": [
+      "Hetland, Robert D.",
+      "Campbell, Lisa"
+    ],
+    "year": 2007,
+    "journal": "Geophysical Research Letters",
+    "volume": "34",
+    "issue": "19",
+    "pages": "2007GL030474",
+    "doi": "10.1029/2007gl030474",
+    "url": "https://doi.org/10.1029/2007gl030474",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F2007gl030474",
+      "https://openalex.org/W2165178618"
+    ],
+    "date": "2007-10",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Turbulent dissipation in a near‐field river plume: A comparison of control volume and microstructure observations with a numerical model",
+    "authors": [
+      "MacDonald, Daniel G.",
+      "Goodman, Louis",
+      "Hetland, Robert D."
+    ],
+    "year": 2007,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "112",
+    "issue": "C7",
+    "pages": "2006JC004075",
+    "doi": "10.1029/2006jc004075",
+    "url": "https://doi.org/10.1029/2006jc004075",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F2006jc004075",
+      "https://openalex.org/W1970072141"
+    ],
+    "date": "2007-07",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Development, Operation, and Results From the Texas Automated Buoy System",
+    "authors": [
+      "Bender, Leslie C.",
+      "Guinasso, Norman L.",
+      "Walpert, John N.",
+      "Lee, Linwood L.",
+      "Martin, Robert D.",
+      "Hetland, Robert D.",
+      "Baum, Steven K.",
+      "Howard, Matthew K."
+    ],
+    "year": 2007,
+    "journal": "Gulf of Mexico Science",
+    "volume": "25",
+    "issue": "1",
+    "pages": "",
+    "doi": "10.18785/goms.2501.04",
+    "url": "https://doi.org/10.18785/goms.2501.04",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.18785%2Fgoms.2501.04",
+      "https://openalex.org/W162825014"
+    ],
+    "date": "2007-01-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Event-driven model skill assessment",
+    "authors": [
+      "Hetland, Robert D."
+    ],
+    "year": 2006,
+    "journal": "Ocean Modelling",
+    "volume": "11",
+    "issue": "1-2",
+    "pages": "214-223",
+    "doi": "10.1016/j.ocemod.2004.12.001",
+    "url": "https://doi.org/10.1016/j.ocemod.2004.12.001",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.ocemod.2004.12.001",
+      "https://openalex.org/W2037245085"
+    ],
+    "date": "2006",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Relating River Plume Structure to Vertical Mixing",
+    "authors": [
+      "Hetland, Robert D."
+    ],
+    "year": 2005,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "35",
+    "issue": "9",
+    "pages": "1667-1688",
+    "doi": "10.1175/jpo2774.1",
+    "url": "https://doi.org/10.1175/jpo2774.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2Fjpo2774.1",
+      "https://openalex.org/W2125465816"
+    ],
+    "date": "2005-09-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Modeling coastal current transport in the Gulf of Maine",
+    "authors": [
+      "Hetland, Robert D.",
+      "Signell, Richard P."
+    ],
+    "year": 2005,
+    "journal": "Deep Sea Research Part II: Topical Studies in Oceanography",
+    "volume": "52",
+    "issue": "19-21",
+    "pages": "2430-2449",
+    "doi": "10.1016/j.dsr2.2005.06.024",
+    "url": "https://doi.org/10.1016/j.dsr2.2005.06.024",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fj.dsr2.2005.06.024",
+      "https://openalex.org/W2133590101"
+    ],
+    "date": "2005-09",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Ten years of realtime, near-surface current observations supporting oil spill response",
+    "authors": [
+      "Martin, Robert D.",
+      "Guinasso, Norman L.",
+      "Lee, Linwood L.",
+      "Walpert, John N.",
+      "Bender, Leslie C.",
+      "Hetland, Robert D.",
+      "Baum, Steven K.",
+      "Howard, Mathew K."
+    ],
+    "year": 2005,
+    "date": "2005-05-01",
+    "journal": "International Oil Spill Conference Proceedings",
+    "volume": "2005",
+    "issue": "1",
+    "pages": "541-545",
+    "doi": "10.7901/2169-3358-2005-1-541",
+    "url": "https://doi.org/10.7901/2169-3358-2005-1-541",
+    "type": "proceedings-article",
+    "peer_reviewed": true,
+    "source_urls": [
+      "https://api.crossref.org/works/10.7901%2F2169-3358-2005-1-541",
+      "https://repository.library.noaa.gov/view/noaa/64452/noaa_64452_DS1.pdf"
+    ],
+    "source": "Crossref publisher metadata; IOSC peer-review documented by NOAA-hosted conference history"
+  },
+  {
+    "title": "An Idealized Study of the Structure of Long, Partially Mixed Estuaries",
+    "authors": [
+      "Hetland, Robert D.",
+      "Geyer, W. Rockwell"
+    ],
+    "year": 2004,
+    "journal": "Journal of Physical Oceanography",
+    "volume": "34",
+    "issue": "12",
+    "pages": "2677-2691",
+    "doi": "10.1175/jpo2646.1",
+    "url": "https://doi.org/10.1175/jpo2646.1",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1175%2Fjpo2646.1",
+      "https://openalex.org/W2098523751"
+    ],
+    "date": "2004-12-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "A mechanism for offshore initiation of harmful algal blooms in the coastal Gulf of Maine",
+    "authors": [
+      "McGillicuddy Jr., D. J.",
+      "Signell, R. P.",
+      "Stock, C. A.",
+      "Keafer, B. A.",
+      "Keller, M. D.",
+      "Hetland, R. D.",
+      "Anderson, D. M."
+    ],
+    "year": 2003,
+    "journal": "Journal of Plankton Research",
+    "volume": "25",
+    "issue": "9",
+    "pages": "1131-1138",
+    "doi": "10.1093/plankt/25.9.1131",
+    "url": "https://doi.org/10.1093/plankt/25.9.1131",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1093%2Fplankt%2F25.9.1131",
+      "https://www.usgs.gov/publications/a-mechanism-offshore-initiation-harmful-algal-blooms-coastal-gulf-maine",
+      "https://www2.whoi.edu/staff/dmcgillicuddy/wp-content/uploads/sites/73/2017/06/mcgetal03_jpr.pdf"
+    ],
+    "date": "2003-09",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Cross-frontal entrainment of plankton into a buoyant plume: The frog tongue mechanism",
+    "authors": [
+      "Hetland, Robert D.",
+      "McGillicuddy Jr, Dennis J.",
+      "Signell, Richard P."
+    ],
+    "year": 2002,
+    "journal": "Journal of Marine Research",
+    "volume": "60",
+    "issue": "6",
+    "pages": "763-777",
+    "doi": "10.1357/002224002321505129",
+    "url": "https://doi.org/10.1357/002224002321505129",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1357%2F002224002321505129",
+      "https://openalex.org/W2006939160"
+    ],
+    "date": "2002-11-01",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Long-term isohaline salt balance in an estuary",
+    "authors": [
+      "MacCready, Parker",
+      "Hetland, Robert D.",
+      "Geyer, W.Rockwell"
+    ],
+    "year": 2002,
+    "journal": "Continental Shelf Research",
+    "volume": "22",
+    "issue": "11-13",
+    "pages": "1591-1601",
+    "doi": "10.1016/s0278-4343(02)00023-7",
+    "url": "https://doi.org/10.1016/s0278-4343(02)00023-7",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1016%2Fs0278-4343%2802%2900023-7",
+      "https://openalex.org/W2013193680"
+    ],
+    "date": "2002-07",
+    "peer_reviewed": true
+  },
+  {
+    "title": "On the decay of a baroclinic jet flowing along a continental slope",
+    "authors": [
+      "Hetland, Robert",
+      "Hsueh, Ya",
+      "Yuan, Dongliang"
+    ],
+    "year": 2001,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "106",
+    "issue": "C9",
+    "pages": "19797-19807",
+    "doi": "10.1029/2000jc000254",
+    "url": "https://doi.org/10.1029/2000jc000254",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F2000jc000254",
+      "https://openalex.org/W2083426427"
+    ],
+    "date": "2001-09-15",
+    "peer_reviewed": true
+  },
+  {
+    "title": "A loop current‐induced jet along the edge of the West Florida Shelf",
+    "authors": [
+      "Hetland, Robert D.",
+      "Hsueh, Ya",
+      "Leben, Robert R.",
+      "Niiler, Pearn P."
+    ],
+    "year": 1999,
+    "journal": "Geophysical Research Letters",
+    "volume": "26",
+    "issue": "15",
+    "pages": "2239-2242",
+    "doi": "10.1029/1999gl900463",
+    "url": "https://doi.org/10.1029/1999gl900463",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F1999gl900463",
+      "https://openalex.org/W2101165460"
+    ],
+    "date": "1999-08",
+    "peer_reviewed": true
+  },
+  {
+    "title": "Observations of the Eastern Maine Coastal Current and its offshore extensions in 1994",
+    "authors": [
+      "Pettigrew, Neal R.",
+      "Townsend, David W.",
+      "Xue, Huijie",
+      "Wallinga, John P.",
+      "Brickley, Peter J.",
+      "Hetland, Robert D."
+    ],
+    "year": 1998,
+    "journal": "Journal of Geophysical Research: Oceans",
+    "volume": "103",
+    "issue": "C13",
+    "pages": "30623-30639",
+    "doi": "10.1029/98jc01625",
+    "url": "https://doi.org/10.1029/98jc01625",
+    "type": "journal-article",
+    "source_urls": [
+      "https://api.crossref.org/works/10.1029%2F98jc01625",
+      "https://openalex.org/W2037488155"
+    ],
+    "date": "1998-12-15",
+    "peer_reviewed": true
+  }
+]
