@@ -63,7 +63,7 @@ Replace the illustrative DOI with a real one. Optional fields: `volume`, `issue`
 | Page structure | `scripts/build.py` |
 | Portrait | Replace `assets/rob.jpeg` |
 
-The project descriptions and CV appointments were carried forward from the old website. Review them as your role and projects change; they have not been assigned new dates or expanded with unverified claims.
+The project descriptions were carried forward from the old website. The CV was updated from the owner-supplied research interests, service, awards, and affiliations on November 17, 2026. Research interests and the homepage focus list can be edited in `content/profile.json`.
 
 ## Preview locally
 

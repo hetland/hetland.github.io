@@ -1,11 +1,19 @@
 {
   "name": "Rob Hetland",
-  "role": "Chief Scientist for Integrated Coastal Modeling",
+  "role": "Earth Scientist",
   "organization": "Pacific Northwest National Laboratory",
   "location": "Bryan, Texas",
   "email": "hetland@gmail.com",
   "scholar": "https://scholar.google.com/citations?user=THFG9TgAAAAJ&hl=en",
   "orcid": "https://orcid.org/0000-0001-9531-2119",
   "github": "https://github.com/hetland",
-  "bio": "I study estuarine and coastal ocean circulation using analytical and numerical tools, focusing on better understanding and prediction of processes in the coastal ocean that control the transport and mixing of fresh water. I also apply these tools to coastal ocean ecology, particularly harmful algal blooms, eutrophication, and seasonal hypoxia."
+  "bio": "I study estuarine and coastal ocean circulation using analytical and numerical tools, focusing on better understanding and prediction of processes in the coastal ocean that control the transport and mixing of fresh water. I also apply these tools to coastal ocean ecology, particularly harmful algal blooms, eutrophication, and seasonal hypoxia.",
+  "research_interests": "Regional earth system modeling; dynamics of estuarine and coastal circulation; coastal ecosystems.",
+  "research_focus": [
+    "Regional Earth System Modeling",
+    "Estuaries & river plumes",
+    "Transport & mixing",
+    "Coastal ecology",
+    "Numerical modeling"
+  ]
 }

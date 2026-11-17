@@ -1,23 +1,123 @@
 {
   "Education": [
-    {"dates":"1999","title":"Ph.D. in Oceanography","organization":"Florida State University","detail":"Tallahassee, Florida"},
-    {"dates":"1996","title":"M.S. in Oceanography","organization":"University of Maine","detail":"Orono, Maine"},
-    {"dates":"1992","title":"B.A. in Physics and Mathematics","organization":"Saint Olaf College","detail":"Northfield, Minnesota"}
+    {
+      "dates": "1999",
+      "title": "Ph.D. in Oceanography",
+      "organization": "Florida State University",
+      "detail": "Tallahassee, Florida"
+    },
+    {
+      "dates": "1996",
+      "title": "M.S. in Oceanography",
+      "organization": "University of Maine",
+      "detail": "Orono, Maine"
+    },
+    {
+      "dates": "1992",
+      "title": "B.A. in Physics and Mathematics",
+      "organization": "Saint Olaf College",
+      "detail": "Northfield, Minnesota"
+    }
   ],
   "Employment": [
-    {"dates":"2021–present","title":"Earth Scientist","organization":"Pacific Northwest National Laboratory"},
-    {"dates":"2013–2021","title":"Professor","organization":"Texas A&M University"},
-    {"dates":"2006–2013","title":"Associate Professor","organization":"Texas A&M University"},
-    {"dates":"2000–2006","title":"Assistant Professor","organization":"Texas A&M University"},
-    {"dates":"1999–2000","title":"Postdoctoral Investigator","organization":"USGS / Woods Hole Oceanographic Institution"},
-    {"dates":"1996–1999","title":"Graduate Research Assistant","organization":"Florida State University"},
-    {"dates":"1993–1996","title":"Graduate Research Assistant","organization":"University of Maine"}
+    {
+      "dates": "2021–present",
+      "title": "Earth Scientist",
+      "organization": "Pacific Northwest National Laboratory"
+    },
+    {
+      "dates": "2013–2021",
+      "title": "Professor",
+      "organization": "Texas A&M University"
+    },
+    {
+      "dates": "2006–2013",
+      "title": "Associate Professor",
+      "organization": "Texas A&M University"
+    },
+    {
+      "dates": "2000–2006",
+      "title": "Assistant Professor",
+      "organization": "Texas A&M University"
+    },
+    {
+      "dates": "1999–2000",
+      "title": "Postdoctoral Investigator",
+      "organization": "USGS / Woods Hole Oceanographic Institution"
+    },
+    {
+      "dates": "1996–1999",
+      "title": "Graduate Research Assistant",
+      "organization": "Florida State University"
+    },
+    {
+      "dates": "1993–1996",
+      "title": "Graduate Research Assistant",
+      "organization": "University of Maine"
+    }
   ],
-  "Honors & awards": [
-    {"dates":"2007–2008","title":"Fulbright Senior Researcher","organization":"Leibniz Institute for Baltic Sea Research (IOW)","detail":"Germany"}
+  "Honors, awards, and notable service": [
+    {
+      "dates": "2007–2008",
+      "title": "Fulbright Senior Researcher",
+      "organization": "Leibniz Institute for Baltic Sea Research (IOW)",
+      "detail": "Germany"
+    },
+    {
+      "dates": "2013–2015",
+      "title": "Associate Editor",
+      "organization": "Estuaries and Coasts"
+    },
+    {
+      "dates": "2019",
+      "title": "Elected Co-Chair",
+      "organization": "Gordon Research Conference on Coastal Ocean Dynamics"
+    },
+    {
+      "dates": "2018",
+      "title": "Elected Chair and Lead Organizer",
+      "organization": "Physics of Estuaries and Coastal Seas meeting"
+    },
+    {
+      "dates": "2015–2023",
+      "title": "Editor",
+      "organization": "Journal of Geophysical Research – Oceans"
+    },
+    {
+      "dates": "2024",
+      "title": "Mercator Fellow",
+      "organization": "Leibniz Institute for Baltic Sea Research (IOW)",
+      "detail": "Germany"
+    },
+    {
+      "dates": "2025",
+      "title": "ACES Mentor of the Year",
+      "organization": "Pacific Northwest National Laboratory"
+    }
   ],
-  "Affiliations": [
-    {"dates":"2022–present","title":"Joint Appointment / Visiting Scholar","organization":"Texas A&M University"},
-    {"dates":"2014–2019","title":"Adjunct Scientist","organization":"Woods Hole Oceanographic Institution"}
+  "Current and prior affiliations": [
+    {
+      "dates": "2014–2019",
+      "title": "Adjunct Scientist",
+      "organization": "Woods Hole Oceanographic Institution"
+    },
+    {
+      "dates": "2022–present",
+      "title": "Visiting Scientist",
+      "organization": "Texas A&M University",
+      "detail": "Department of Oceanography"
+    },
+    {
+      "dates": "2023–2026",
+      "title": "Courtesy Faculty Member",
+      "organization": "Oregon State University",
+      "detail": "College of Earth, Ocean, and Atmospheric Sciences"
+    },
+    {
+      "dates": "2025–present",
+      "title": "Affiliate Professor",
+      "organization": "University of Washington",
+      "detail": "Department of Civil and Environmental Engineering"
+    }
   ]
 }
