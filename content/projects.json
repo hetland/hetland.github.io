@@ -1,14 +1,39 @@
 [
   {
-    "title": "COMPASS-Great Lakes Modeling",
-    "body": "I am the PI of a two-year pilot study, [COMPASS-GLM](https://compass.pnnl.gov/GLM/), that aims to enhance predictive understanding of freshwater coastal systems, especially how they respond to climate warming, Land Use Land Cover Change, and other perturbations at watershed-to-regional scales. This includes local climate and weather feedbacks that affect wintertime lake effect snows and summertime convective storms. The project is focused on two tasks. Task 1 is a coupled regional climate model of the Great Lakes region with a downscaled component examining coastal urban heat island effects around Chicago and the interactions with convective storms that cause local flooding. Task 2 is focused on process-resolving simulations of event-scale streamflow and nutrient removal the Portage river watershed."
+    "id": "gleam",
+    "status": "current",
+    "title": "GLEAM",
+    "summary": "Regional earth system modeling for subseasonal-to-seasonal prediction in the Great Lakes, linking the atmosphere, lakes, land, hydrology, and human systems.",
+    "body": "I am the Principal Investigator of Great Lakes Earth System AI Modeling (GLEAM), led by Pacific Northwest National Laboratory. GLEAM is developing a regional modeling framework to improve subseasonal-to-seasonal prediction across the atmosphere, lakes, land, hydrology, and human systems.\n\nThe project focuses on system memory: persistent signals in lake heat storage, soil moisture, vegetation, and human infrastructure decisions that can improve predictability. Three integrated research themes examine multiscale regional interactions, hydrological processes, and water–land–energy system connections, including the effects of urban development, agriculture, and infrastructure on water and energy systems.\n\nThe framework combines process-based models with physics-informed machine-learning surrogates and foundation models, allowing components to be assembled for specific science questions. The goal is to build predictive capabilities that can transfer to other coastal and regional systems. Partner institutions include Oak Ridge, Argonne, and Los Alamos national laboratories, Michigan Technological University, Central Michigan University, Michigan State University, and Pennsylvania State University.",
+    "source": "Owner-supplied GLEAM flyer, November 2026, Draft 3"
+  },
+  {
+    "id": "seahorce",
+    "status": "current",
+    "title": "SEAHORÇE",
+    "summary": "Coupling high-resolution regional ocean models with E3SM to better represent coastal processes and their interactions with the global ocean.",
+    "body": "[SEAHORÇE](https://seahorce-scidac.github.io/)—Study for Exascale Advances in a High-resolution Ocean using ROMS Coupled to E3SM—is a SciDAC5 project improving how Earth system models represent river plumes, coastal fronts, and mesoscale and submesoscale eddies.\n\nThe project develops efficient two-way coupling between the Regional Ocean Modeling System (ROMS) and the MPAS-O global ocean component of the Energy Exascale Earth System Model (E3SM). It also develops [REMORA](https://remora-ocean.readthedocs.io/), a performance-portable ocean model designed for computing platforms from laptops to advanced GPU-based systems.\n\nThis work investigates how coastal regions respond to climate variability and how small-scale ocean processes feed back on larger-scale climate.",
+    "source_url": "https://seahorce-scidac.github.io/"
   },
   {
     "title": "Integrated Coastal Modeling (ICoM)",
-    "body": "I am PI for [cross-cutting activities](https://icom.pnnl.gov/research/CrossCutting) in the [Integrated Coastal Modeling (ICoM)](https://icom.pnnl.gov/) project, focused on the role of coastal development patterns in driving natural system changes, including key biogeochemical and hydrological processes, and on evaluating the strengths and limitations associated with different coastal modeling techniques. I am leading an activity to evaluate numerical mixing in coastal ocean model test cases, focusing on comparing [MPAS-Ocean](https://mpas-dev.github.io/ocean/ocean.html) and the [Regional Ocean Modeling System (ROMS)](https://www.myroms.org/) in their ability to reproduce idealized coastal circulation features, such as baroclinic eddies on the shelf."
+    "body": "I am PI for [cross-cutting activities](https://icom.pnnl.gov/research/CrossCutting) in the [Integrated Coastal Modeling (ICoM)](https://icom.pnnl.gov/) project, focused on the role of coastal development patterns in driving natural system changes, including key biogeochemical and hydrological processes, and on evaluating the strengths and limitations associated with different coastal modeling techniques. I am leading an activity to evaluate numerical mixing in coastal ocean model test cases, focusing on comparing [MPAS-Ocean](https://mpas-dev.github.io/ocean/ocean.html) and the [Regional Ocean Modeling System (ROMS)](https://www.myroms.org/) in their ability to reproduce idealized coastal circulation features, such as baroclinic eddies on the shelf.",
+    "id": "icom",
+    "status": "current",
+    "summary": "Connecting coastal development, hydrology, and biogeochemistry through integrated models and rigorous comparisons."
+  },
+  {
+    "title": "COMPASS-Great Lakes Modeling",
+    "body": "I was the PI of a two-year pilot study, [COMPASS-GLM](https://compass.pnnl.gov/GLM/), that aimed to enhance predictive understanding of freshwater coastal systems, especially how they respond to climate warming, Land Use Land Cover Change, and other perturbations at watershed-to-regional scales. This included local climate and weather feedbacks that affect wintertime lake effect snows and summertime convective storms. The project focused on two tasks. Task 1 was a coupled regional climate model of the Great Lakes region with a downscaled component examining coastal urban heat island effects around Chicago and the interactions with convective storms that cause local flooding. Task 2 focused on process-resolving simulations of event-scale streamflow and nutrient removal the Portage river watershed.",
+    "id": "compass-glm",
+    "status": "previous",
+    "summary": "A pilot study of Great Lakes climate, coastal urban interactions, and watershed streamflow and nutrient removal."
   },
   {
     "title": "SUNRISE",
-    "body": "I am participating in the NSF funded [SUNRISE](https://sunrise-nsf.github.io/) project. Near-inertial motions (oscillations near the Coriolis frequency) and submesoscales (1-10km) are ubiquitous and important features of the upper ocean; recent work has shown that near-inertial motions (NIOs) can directly interact with submesoscales and upper ocean turbulence, but these interactions are poorly understood. This project seeks to create a unified dynamical description of near-inertial and submesoscale motions and their influence on turbulent mixing. My research has focused on high-resolution regional ocean modeling using the [TXLA](https://pong.tamu.edu/tabswebsite/) application of the [Regional Ocean Modeling System (ROMS)](https://www.myroms.org/) ocean model."
+    "body": "I participated in the NSF funded [SUNRISE](https://sunrise-nsf.github.io/) project. Near-inertial motions (oscillations near the Coriolis frequency) and submesoscales (1-10km) are ubiquitous and important features of the upper ocean; recent work has shown that near-inertial motions (NIOs) can directly interact with submesoscales and upper ocean turbulence, but these interactions are poorly understood. This project sought to create a unified dynamical description of near-inertial and submesoscale motions and their influence on turbulent mixing. My research focused on high-resolution regional ocean modeling using the [TXLA](https://pong.tamu.edu/tabswebsite/) application of the [Regional Ocean Modeling System (ROMS)](https://www.myroms.org/) ocean model.",
+    "id": "sunrise",
+    "status": "previous",
+    "summary": "High-resolution modeling of near-inertial motions, submesoscale fronts, and turbulent mixing."
   }
 ]

@@ -57,7 +57,7 @@ Replace the illustrative DOI with a real one. Optional fields: `volume`, `issue`
 | What | Edit |
 | --- | --- |
 | Bio, contact, affiliation, professional links | `content/profile.json` |
-| Detailed project descriptions | `content/projects.json` (simple Markdown links supported) |
+| Project titles, descriptions, homepage summaries, and current/previous status | `content/projects.json` (simple Markdown links supported) |
 | Publication selection notes | `content/publication-notes.html` |
 | Typography, colors, responsive and print styles | `assets/style.css` |
 | Page structure | `scripts/build.py` |
@@ -87,8 +87,10 @@ Before the redesign (November 17, 2026), the default branch was `master` but the
 
 - `archive/pre-redesign-2026-11-17`: exact pre-redesign default branch, `818f34261b4373715c66f25a1f28c58a78a60f86`.
 - `archive/live-site-2026-11-17`: exact live source, `a8faa22d6528d74f28db73a0a6bc4af4ee6de6bb`.
-- `/archive/2026-11-17/`: browsable snapshot of the live site with local assets and original HTML, plus a timestamp/hash manifest. Linked from every page footer. The archive is intentionally excluded from the new site’s sitemap.
+- `/archive/2026-11-17/`: browsable snapshot of the live site with local assets and original HTML, plus a timestamp/hash manifest. Accessible directly at that path. The archive is intentionally excluded from the new site’s sitemap.
 
 To restore the previous live site, change Pages Source back to **Deploy from a branch**, select `archive/live-site-2026-11-17` and `/ (root)`, and Save. The redesign remains in Git history. No force push is necessary.
 
 The publication audit is in `content/publication-audit.md`. The current bibliography contains 103 reviewed papers from 1998–2026, reconciled with all 192 records visible on Google Scholar on November 17, 2026. The old report/book/chapter entries remain in the browsable archive; they are excluded from the current peer-reviewed research list where review status could not be established.
+
+Each project has a stable `id`, a `status` of `current` or `previous`, a short `summary` for the homepage, and a detailed `body`. Only current projects appear on the homepage; both groups appear on the Projects page.

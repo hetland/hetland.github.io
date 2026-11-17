@@ -72,7 +72,7 @@ def shell(title, active, body, description=None):
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(title)} · Rob Hetland</title><meta name="description" content="{E(description)}"><meta name="theme-color" content="#163c42"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/style.css?v={ASSET_VERSION}"><script src="/assets/site.js?v={ASSET_VERSION}" defer></script></head>
 <body><a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="wrap header-inner"><a class="brand" href="/" aria-label="Rob Hetland home">Rob Hetland</a><nav class="nav" aria-label="Main navigation">{nav}</nav></div></header>
-<main id="main">{body}</main><footer class="site-footer"><div class="wrap"><div class="footer-contact"><a href="mailto:{E(profile['email'])}">{E(profile['email'])}</a>{social()}</div><div class="footer-inner"><span>{E(profile['organization'])} · {E(profile['location'])}</span><div><a href="/archive/2026-11-17/">Previous website</a><a href="https://github.com/hetland/hetland.github.io">Source</a></div></div></div></footer></body></html>'''
+<main id="main">{body}</main><footer class="site-footer"><div class="wrap"><div class="footer-contact"><a href="mailto:{E(profile['email'])}">{E(profile['email'])}</a>{social()}</div></div></footer></body></html>'''
 
 def paper_html(p, short=False):
     ref = citation(p)
@@ -80,12 +80,7 @@ def paper_html(p, short=False):
     return f'''<article class="publication" data-year="{p['year']}"><div><h3><a href="{E(p['url'])}">{E(p['title'])}</a></h3><p class="authors">{authors(p,True)}</p><p class="journal">{E(p['journal'])} · {p['year']}{correction}</p>''' + ('' if short else f'''<details class="citation"><summary>Citation &amp; DOI</summary><p>{E(ref)}</p><button class="copy-button" data-copy="{E(ref)}">Copy citation</button></details>''') + f'''</div><div class="paper-actions"><a href="{E(p['url'])}" aria-label="Read {E(p['title'])}">Read ↗</a>''' + ('' if short else f'<a href="/publications/bib/{key(p)}.bib" download aria-label="Download BibTeX for {E(p["title"])}">.bib ↓</a>') + '</div></article>'
 
 def home():
-    summaries = [
-        'Coupling the atmosphere, lakes, and watersheds to understand how freshwater coasts respond to a changing climate.',
-        'Connecting coastal development, hydrology, and biogeochemistry through integrated models and rigorous comparisons.',
-        'Resolving how near-inertial motions, submesoscale fronts, and turbulence exchange water in the upper ocean.'
-    ]
-    cards = ''.join(f'<article class="project-card"><h3><a href="/projects/#{["compass-glm","icom","sunrise"][i]}">{E(p["title"])}</a></h3><p>{summaries[i]}</p></article>' for i,p in enumerate(projects))
+    cards = ''.join(f'<article class="project-card"><h3><a href="/projects/#{E(p["id"])}">{E(p["title"])}</a></h3><p>{E(p["summary"])}</p></article>' for p in projects if p['status'] == 'current')
     focus = ''.join(f'<li>{E(topic)}</li>' for topic in profile['research_focus'])
     return shell('Research', 'Research', f'''<div class="wrap"><section class="home-intro"><div class="identity"><div><h1>{E(profile['name'])}</h1><p class="role">{E(profile['role'])}<br>{E(profile['organization'])}</p></div><img src="/assets/rob.jpeg" alt="Rob Hetland" width="88" height="88"></div><p class="bio">{E(profile['bio'])}</p><div class="research-focus"><h2>Research focus</h2><ul>{focus}</ul></div></section><section class="section"><div class="section-heading"><h2>Projects</h2><a class="text-link" href="/projects/">All projects</a></div><div class="project-grid">{cards}</div></section><section class="section"><div class="section-heading"><h2>Recent publications</h2><a class="text-link" href="/publications/">All publications ({len(publications)})</a></div>{''.join(paper_html(p,True) for p in publications[:3])}</section></div>''')
 
@@ -98,9 +93,9 @@ def publications_page():
     return shell('Publications','Publications',f'''<div class="wrap"><header class="page-head"><h1>Publications</h1><div class="buttons"><a class="button" href="/publications/publications.bib" download>Download all BibTeX ↓</a><a class="button" href="{E(profile['scholar'])}">Google Scholar ↗</a></div></header><div class="filters"><label for="publication-search">Search publications<input type="search" id="publication-search" placeholder="Title, author, journal, or keyword…" autocomplete="off"></label><label for="publication-year">Year<select id="publication-year"><option value="">All years</option>{years}</select></label><button class="button" id="clear-filters">Clear filters</button></div><div class="results-meta"><span id="result-count" role="status" aria-live="polite">{len(publications)} publications</span><p>Newest first · {min(groups)}–{max(groups)} · Every paper links to its DOI</p></div><p class="no-results" id="no-results" hidden>No publications match. Try another keyword or clear the filters.</p>{rows}<p class="note">This list includes peer-reviewed journal articles and reviewed proceedings papers. Meeting abstracts, preprints, editorials, and reports are excluded. DOI metadata checked November 17, 2026. <a href="/publications/sources.html">Sources &amp; selection notes</a>.</p></div>''')
 
 def projects_page():
-    ids = ['compass-glm','icom','sunrise']
-    rows = ''.join(f'<article class="project-detail" id="{ids[i]}"><div><h2>{E(p["title"])}</h2></div><div class="project-copy">{paras(p["body"])}</div></article>' for i,p in enumerate(projects))
-    return shell('Projects','Projects',f'<div class="wrap"><header class="page-head"><h1>Projects</h1></header>{rows}</div>')
+    def rows(status):
+        return ''.join(f'<article class="project-detail" id="{E(p["id"])}"><h3>{E(p["title"])}</h3><div class="project-copy">{paras(p["body"])}</div></article>' for p in projects if p['status'] == status)
+    return shell('Projects','Projects',f'<div class="wrap"><header class="page-head"><h1>Projects</h1></header><section class="project-group" aria-labelledby="current-projects"><h2 id="current-projects">Current projects</h2>{rows("current")}</section><section class="project-group" aria-labelledby="previous-projects"><h2 id="previous-projects">Previous projects</h2>{rows("previous")}</section></div>')
 
 def cv_page():
     sections = [f'<section class="cv-section"><h2>Research interests</h2><p>{E(profile["research_interests"])}</p></section>']
